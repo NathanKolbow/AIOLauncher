@@ -1,3 +1,8 @@
+img {
+  -webkit-user-drag: none;
+  user-select: none;
+}
+
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   margin: auto;
@@ -67,12 +72,12 @@ body {
 
 #img_wrap img.logo {
   position: absolute;
-  left: 0;
+  left: 10%;
   top: 50%;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
 
-  width: 100%;
+  width: 80%;
   z-index: 2;
 }
 

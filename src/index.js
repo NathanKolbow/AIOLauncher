@@ -7,33 +7,26 @@ if (require('electron-squirrel-startup')) { // eslint-disable-line global-requir
   app.quit();
 }
 
-const createWindow = () => {
-  // Create the browser window.
-  const mainWindow = new BrowserWindow({
-    width: 800,
-    height: 600,
-    webPreferences: {
-      nodeIntegration: true
-    }
-  });
-
-  // and load the index.html of the app.
-  mainWindow.loadFile(path.join(__dirname, 'index.html'));
-
-  // Open the DevTools.
-  mainWindow.webContents.openDevTools();
-
-  globalShortcut.register('F5', () => {
-    mainWindow.webContents.openDevTools();
-  });
-};
+var mainWindow = {};
 
 
 // This method will be called when Electron has finished
 // initialization and is ready to create browser windows.
 // Some APIs can only be used after this event occurs.
 app.on('ready', () => {
-  createWindow();
+  mainWindow = new BrowserWindow({
+    width: 800,
+    height: 600,
+    webPreferences: {
+      nodeIntegration: true,
+      enableRemoteModule: true
+    }
+  });
+
+  mainWindow.loadFile(path.join(__dirname, 'index.html'));
+  globalShortcut.register('F5', () => {
+    mainWindow.webContents.openDevTools();
+  });
 });
 
 // Quit when all windows are closed, except on macOS. There, it's common
@@ -77,8 +70,7 @@ const menu_template = [
       {
         label: 'Manage Game Directories',
         click: async() => {
-          console.log("To implement.")
-          // SWITCH TO MENU WHERE CAN EDIT CONFIG
+          mainWindow.loadFile(path.join(__dirname, 'settings.html'));
         }
       }
     ]

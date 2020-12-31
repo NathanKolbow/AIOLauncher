@@ -1,0 +1,42 @@
+{
+    "manifest-directories": [
+        {
+            "provider": "steam",
+            "dir": "M:\\SteamLibrary\\steamapps\\"
+        }
+    ],
+    "games": [
+        {
+            "provider": "steam",
+            "title": "Among Us",
+            "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_945360.acf",
+            "main-image" : "C:\\Program Files (x86)\\Steam\\appcache\\librarycache\\945360_library_600x900.jpg",
+            "wide-image" : "null",
+            "logo-image" : "null"
+        },
+        {
+            "provider": "epic",
+            "title": "Rocket League",
+            "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifest\\64677A004C816BA1FA758ABAEC146882.item",
+            "main-image" : "M:\\Epic Games\\rocketleague\\TAGame\\Splash\\PCConsole\\Splash.bmp",
+            "wide-image" : "null",
+            "logo-image" : "null"
+        },
+        {
+            "provider": "epic",
+            "title": "Enter the Gungeon",
+            "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifest\\4DEA759B4BBF89912A0F0AA7D5575CAC.item",
+            "main-image" : "https://cdn1.epicgames.com/be13f6c4fb11427fbf3313ce93b97cc0/item/Gungeon_PortraitPromo-1280x1440-16a72d4e2592d6a8eb57fbc059d7a4d2.jpg",
+            "wide-image" : "https://cdn1.epicgames.com/be13f6c4fb11427fbf3313ce93b97cc0/item/Gungeon_PrimaryPromo-2560x1440-a34ca96251763ff6deb8529a4a39d0a8.jpg",
+            "logo-image" : "https://cdn1.epicgames.com/be13f6c4fb11427fbf3313ce93b97cc0/item/EnterTheGungeon_GameLogo-1031x353-bedda5b87f979bea3218672710f766b3.png"
+        },
+        {
+            "provider": "epic",
+            "title": "Darkest Dungeon",
+            "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifest\\06C1EC0D435F52AC9140339C64963CF6.item",
+            "main-image" : "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/item/EGS_DarkestDungeon_RedHookStudios_S2-1200x1600-1888311b95f43a3b02df2c452bd4ffee.jpg",
+            "wide-image" : "null",
+            "logo-image" : "null"
+        }
+    ]
+}

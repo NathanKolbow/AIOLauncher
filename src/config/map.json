@@ -1,0 +1,178 @@
+{
+  "manifest-directories": [
+    {
+      "provider": "steam",
+      "dir": "M:\\SteamLibrary\\steamapps\\"
+    }
+  ],
+  "games": [
+    {
+      "wide-image": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_Dungeons3_RealmforgeStudios_S3-2560x1440-21b5fe0f44bc1f4c23a68bf6e159be40.jpg",
+      "main-image": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_Dungeons3_RealmforgeStudios_S4-1200x1600-1bd28634e22cae5706b41f0e3ef9cc0c.jpg",
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\1688AE14468AEB6836468EA564311FCC.item",
+      "title": "Dungeons 3"
+    },
+    {
+      "wide-image": "https://cdn1.epicgames.com/13bb5776b9e1424d84ce42d9ba61c0ca/item/PLAYDEAD_INSIDE-PROMO-2560x1440-8980f5681b4e521ab357910a1ee3f83b.jpg",
+      "main-image": "https://cdn1.epicgames.com/13bb5776b9e1424d84ce42d9ba61c0ca/item/INSIDE_340X440-340x440-41d8a56cb8602bac574e0c1254c9a9f9.jpg",
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\52E8136E49F8E2B9758C33A60B930320.item",
+      "title": "Inside"
+    },
+    {
+      "wide-image": "https://cdn1.epicgames.com/be13f6c4fb11427fbf3313ce93b97cc0/item/Gungeon_PrimaryPromo-2560x1440-a34ca96251763ff6deb8529a4a39d0a8.jpg",
+      "logo-image": "https://cdn1.epicgames.com/be13f6c4fb11427fbf3313ce93b97cc0/item/EnterTheGungeon_GameLogo-1031x353-bedda5b87f979bea3218672710f766b3.png",
+      "main-image": "https://cdn1.epicgames.com/be13f6c4fb11427fbf3313ce93b97cc0/item/Gungeon_PortraitPromo-1280x1440-16a72d4e2592d6a8eb57fbc059d7a4d2.jpg",
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\4DEA759B4BBF89912A0F0AA7D5575CAC.item",
+      "title": "Enter the Gungeon"
+    },
+    {
+      "main-image": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/item/RoCo_EGS_BaseGame_PortraitProduct_1200x1600-1200x1600-886450991cadd15b0e5e08b80f671556.jpg",
+      "wide-image": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/item/RoCo_EGS_BaseGame_HeroCarousel_1920x1080-1920x1080-ccb9e1e2dc0a89e1c1b5aa29c1a18769.jpg",
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\CC2821C54EC9521303AB3DB9162930A8.item",
+      "title": "Rogue Company"
+    },
+    {
+      "main-image": "https://cdn1.epicgames.com/8432511ef63b489b843d21ff486a0355/item/EGS_TorchlightII_RunicGames_S2-1200x1600-39504450e62136e79307e2493e48ef8d.jpg",
+      "wide-image": "https://cdn1.epicgames.com/8432511ef63b489b843d21ff486a0355/item/EGS_TorchlightII_RunicGames_S3-2560x1440-d8785a9ad9572e68e45d5a9471e4b81b.jpg",
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\82CEAC914F36117ABA47BA927876CEB3.item",
+      "title": "Torchlight II"
+    },
+    {
+      "wide-image": "https://cdn1.epicgames.com/5c0d568c71174cff8026db2606771d96/item/EGS_SubsetGames_IntotheBreach_S1-2560x1440-dba55f96ffe7af34552ed2215f921bdc.jpg",
+      "main-image": "https://cdn1.epicgames.com/5c0d568c71174cff8026db2606771d96/item/EGS_SubsetGames_IntotheBreach_S2-1280x1440-22e899c71d5a2bf7bc9353cc3f6e46d2.jpg",
+      "logo-image": "https://cdn1.epicgames.com/5c0d568c71174cff8026db2606771d96/item/EGS_SubsetGames_IntotheBreach_IC1-200x200-49a3bf4ab351e9aa255e2e52c8368346.png",
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\E9F13D7C424D9C4B4182159D9557D77A.item",
+      "title": "Into The Breach"
+    },
+    {
+      "wide-image": "https://cdn1.epicgames.com/azalea/item/EN_Yager_TheCycle_S1_2560x1440-2560x1440-478ff1fc88aff44e7d924300f1147d15.jpg",
+      "main-image": "https://cdn1.epicgames.com/azalea/item/Shop_tile_F_06-1200x1600-d7d7bc166a8a0ede883aa27cffc94a51.jpg",
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\828BF7954F4FCEAC08EAE59B98A1DA95.item",
+      "title": "The Cycle"
+    },
+    {
+      "wide-image": "https://cdn1.epicgames.com/petunia/item/M2033-Redux_Library_Primary_Promo-2580x1450-fe8ec6f0777e29e75c9897a4cb7c6121.jpg",
+      "logo-image": "https://cdn1.epicgames.com/petunia/item/M2033_GameLogo-1405x800-df93c960cf07a8869de25468fe361de7.png",
+      "main-image": "https://cdn1.epicgames.com/petunia/item/M2033_PortraitPromo-1280x1420-b2ca7af4c9382b02b7370722b95ef6de.jpg",
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\8760F8A044227869D70B088CCFDE6B37.item",
+      "title": "Metro 2033 Redux"
+    },
+    {
+      "logo-image": "https://cdn1.epicgames.com/0e87bed2a83c4cf6a68a7aeb43f25cf0/item/EGS_RawFury_KingdomNewLands_IC1_LogoColor-520x194-6a025871f80bf64e261c2cfd499c20f7.png",
+      "wide-image": "https://cdn1.epicgames.com/0e87bed2a83c4cf6a68a7aeb43f25cf0/item/EGS_RawFury_KingdomNewLands_G1_PDPPromo_Image-2560x1440-7aadfb97ae5a2d4b59a3bef27ecf17fb.jpg",
+      "main-image": "https://cdn1.epicgames.com/0e87bed2a83c4cf6a68a7aeb43f25cf0/item/EGS_RawFury_KingdomNewLands_S3_StorePortraitPromo-1280x1440-a1f13da9db6f52b17b758782be5aa352.jpg",
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\EB0ACB4641C10FB4D6B5D4865198C129.item",
+      "title": "Kingdom New Lands"
+    },
+    {
+      "main-image": "https://cdn.steamgriddb.com/grid/310c9f9103377d00000d96691fccfe23.png",
+      "wide-image": "https://cdn.steamgriddb.com/grid/4490759a6b69ecb7c170d8e1476be569.png",
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\8CD9EF264A8BF5B80940348B0BCEA41A.item",
+      "title": "Alien: Isolation"
+    },
+    {
+      "main-image": "https://cdn.steamgriddb.com/grid/bf5c13b2138225938ec63f7ce0694431.png",
+      "wide-image": "https://cdn.steamgriddb.com/grid/6a12f449790ed7be96d77aa4c7d9c1c1.png",
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\06C1EC0D435F52AC9140339C64963CF6.item",
+      "title": "Darkest Dungeon®"
+    },
+    {
+      "main-image": "https://cdn.steamgriddb.com/grid/5979ef626c95c5c8d9ca4f4e9a366a15.png",
+      "wide-image": "https://cdn.steamgriddb.com/grid/2ef35a8b78b572a47f56846acbeef5d3.png",
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\391CB16D419F845DC706A7AD8DD5989A.item",
+      "title": "Stranded Deep"
+    },
+    {
+      "main-image": "https://cdn.steamgriddb.com/grid/0f1fc687aa65dc3bfee3c053472ce62a.png",
+      "wide-image": "https://cdn.steamgriddb.com/grid/81fd0241fd6df61d5201d65fd47bb698.png",
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\456C34014C9640227AF02A851D9E59F2.item",
+      "title": "Cities: Skylines"
+    },
+    {
+      "main-image": "https://cdn.steamgriddb.com/grid/a6c5be3b96e356fe8719f9c8ac2635f1.png",
+      "wide-image": "https://cdn.steamgriddb.com/grid/8523109c9a85dbfc46eb1f46955b5449.png",
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\CB2F3C6A4EE214AA4527B1B665A4C971.item",
+      "title": "Layers of Fear 2"
+    },
+    {
+      "main-image": "https://cdn.steamgriddb.com/grid/6470e4c6393b507120fa20e08607d65e.png",
+      "wide-image": "https://cdn.steamgriddb.com/grid/f1c56338ebafdbe263515bec026ee74d.png",
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\C3A2C6C9454B0389B9362FB54DE3B167.item",
+      "title": "Hyper Scape"
+    },
+    {
+      "main-image": "https://cdn.steamgriddb.com/grid/5363171e2d6fb9294ed15788d6874c46.png",
+      "wide-image": "https://cdn.steamgriddb.com/grid/47bd8ac1becf213f155a82244b4a696a.png",
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\506E172A46C7FFC9ABAC44B7C32C9732.item",
+      "title": "Costume Quest 2"
+    },
+    {
+      "main-image": "https://cdn.steamgriddb.com/grid/b0e65950bb01355463e3a38354d9f334.png",
+      "wide-image": "https://cdn.steamgriddb.com/grid/fcfe47c90630b5f5781b3e78f49fb566.png",
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\BE90F6CD47241E9CE3079583E2729479.item",
+      "title": "HITMAN"
+    },
+    {
+      "main-image": "https://cdn.steamgriddb.com/grid/938f7afcfd8745c92c3010b5bf4ba75d.png",
+      "wide-image": "https://cdn.steamgriddb.com/grid/16336869d1df46f2d92671627561b2d2.png",
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\E0C50749411F509CC481B1BC588F82BF.item",
+      "title": "Sid Meier's Civilization VI"
+    },
+    {
+      "main-image": "https://cdn.steamgriddb.com/grid/a94595e22a11a0e271943269b1605e8d.png",
+      "wide-image": "https://cdn.steamgriddb.com/grid/ea3a48c74a9efb9a08635fe7990347cc.png",
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\64677A004C816BA1FA758ABAEC146882.item",
+      "title": "Rocket League®"
+    },
+    {
+      "wide-image": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/item/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S5-1920x1080-689d96ca4d5a4e8de183b7a928960c87.jpg",
+      "main-image": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/item/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S6-1200x1600-591ca93f3bee7bc55a90b77ccc36eb84.jpg",
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\AB44C059459ECBC0D79950A482C6AAAA.item",
+      "title": "RollerCoaster Tycoon® 3: Complete Edition"
+    },
+    {
+      "wide-image": "https://cdn1.epicgames.com/cobra/item/MyTimeAtPortia_SecondaryPromo-1032x580-910e41e751b04e8114c1826a5e98c3bc.png",
+      "logo-image": "https://cdn1.epicgames.com/cobra/item/MyTimeAtPortia_GameLogoColour_PNGNewSize-2235x960-337267f3a1fbf1e0d6b3370c1edfba52.png",
+      "main-image": "https://cdn1.epicgames.com/cobra/item/MyTimeAtPortia_tall-865x960-8cf010d5d5a432a0f85c669e616baa1b.png",
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\2142AC9A4E6BED4D6C500DB0CC20E019.item",
+      "title": "My Time at Portia"
+    },
+    {
+      "fake": "",
+      "wide-image": "https://cdn1.epicgames.com/newt/item/EGS_Spellbreak_ProletariatInc_S5-1920x1080-256f590bad9f869587c0be7b358853fc-1920x1080-256f590bad9f869587c0be7b358853fc.jpg",
+      "main-image": "https://cdn1.epicgames.com/newt/item/EGS_Spellbreak_ProletariatInc_S6-1200x1600-8cf5fbf5533eb5644cec429a257b6b69-1200x1600-8cf5fbf5533eb5644cec429a257b6b69.jpg",
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\204607BB48D8A22A604DADBCF148A4F3.item",
+      "title": "Spellbreak"
+    },
+    {
+      "logo-image": "https://cdn1.epicgames.com/7af7476ff9eb4a8d9cd9d6486224de76/item/AbzuLogo-3366x1158-bb53cbd189bef0cebbc1eece00eaa96a.png",
+      "wide-image": "https://cdn1.epicgames.com/7af7476ff9eb4a8d9cd9d6486224de76/item/Abzu_PRIMARYPROMO_2580x1450-2580x1450-1df5bc4d1ebbf73ff8e4e1fdb70011d0.jpg",
+      "main-image": "https://cdn1.epicgames.com/7af7476ff9eb4a8d9cd9d6486224de76/item/Abzu_PORTRAITPROMO_1280x1450-1280x1450-f4f02e4e83f889842dc7e47e9e662b58.jpg",
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\0ADA17D1476CA19965A977BF9C559425.item",
+      "title": "ABZU"
+    }
+  ]
+}
