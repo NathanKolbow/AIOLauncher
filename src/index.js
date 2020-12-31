@@ -17,6 +17,8 @@ app.on('ready', () => {
   mainWindow = new BrowserWindow({
     width: 800,
     height: 600,
+    minWidth: 1000,
+    minHeight: 600,
     webPreferences: {
       nodeIntegration: true,
       enableRemoteModule: true

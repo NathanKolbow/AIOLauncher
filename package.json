@@ -46,8 +46,11 @@
   },
   "dependencies": {
     "electron-squirrel-startup": "^1.0.0",
+    "hammerjs": "^2.0.8",
     "http": "^0.0.1-security",
-    "materialize-css": "^1.0.0-rc.2",
+    "jquery": "^3.5.1",
+    "materialize-css": "^1.0.0",
+    "pako": "^2.0.2",
     "urllib": "^2.36.1"
   },
   "devDependencies": {

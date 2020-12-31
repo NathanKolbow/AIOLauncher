@@ -6,7 +6,7 @@
 
 body {
     padding-top: 10px;
-    padding-left: 310px;
+    padding-left: 300px;
 }
 
 button {
@@ -24,7 +24,7 @@ button {
     }
 }
 
-.button-collapse {
+#menu {
     position: absolute;
     right: 5;
     top: 5;
