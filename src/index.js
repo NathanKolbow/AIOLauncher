@@ -15,10 +15,10 @@ var mainWindow = {};
 // Some APIs can only be used after this event occurs.
 app.on('ready', () => {
   mainWindow = new BrowserWindow({
-    width: 800,
-    height: 600,
+    width: 1000,
+    height: 800,
     minWidth: 1000,
-    minHeight: 600,
+    minHeight: 200,
     webPreferences: {
       nodeIntegration: true,
       enableRemoteModule: true
@@ -51,32 +51,4 @@ app.on('activate', () => {
 // In this file you can include the rest of your app's specific main process
 // code. You can also put them in separate files and import them here.
 const { Menu } = require('electron')
-
-const menu_template = [
-  // File, Edit, View, Window, Help
-  {
-    label: 'File',
-    submenu: [
-      {
-        label: 'Quit',
-        click: async() => {
-          const { app } = require('electron')
-          app.quit()
-        }
-      }
-    ]
-  },
-  {
-    label: 'Edit',
-    submenu: [
-      {
-        label: 'Manage Game Directories',
-        click: async() => {
-          mainWindow.loadFile(path.join(__dirname, 'settings.html'));
-        }
-      }
-    ]
-  }
-]
-
-Menu.setApplicationMenu(Menu.buildFromTemplate(menu_template))
+Menu.setApplicationMenu(null);

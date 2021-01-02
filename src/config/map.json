@@ -7,172 +7,1995 @@
   ],
   "games": [
     {
-      "wide-image": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_Dungeons3_RealmforgeStudios_S3-2560x1440-21b5fe0f44bc1f4c23a68bf6e159be40.jpg",
-      "main-image": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_Dungeons3_RealmforgeStudios_S4-1200x1600-1bd28634e22cae5706b41f0e3ef9cc0c.jpg",
-      "provider": "epic",
-      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\1688AE14468AEB6836468EA564311FCC.item",
-      "title": "Dungeons 3"
+      "main-image": [],
+      "wide-image": [],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_1341230.acf",
+      "title": "Super Buckyball Tournament Preseason"
     },
     {
-      "wide-image": "https://cdn1.epicgames.com/13bb5776b9e1424d84ce42d9ba61c0ca/item/PLAYDEAD_INSIDE-PROMO-2560x1440-8980f5681b4e521ab357910a1ee3f83b.jpg",
-      "main-image": "https://cdn1.epicgames.com/13bb5776b9e1424d84ce42d9ba61c0ca/item/INSIDE_340X440-340x440-41d8a56cb8602bac574e0c1254c9a9f9.jpg",
-      "provider": "epic",
-      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\52E8136E49F8E2B9758C33A60B930320.item",
-      "title": "Inside"
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/e14309c4834ee4f482f0b347f65103a4.png"
+      ],
+      "wide-image": [],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_1263070.acf",
+      "title": "Blightbound"
     },
     {
-      "wide-image": "https://cdn1.epicgames.com/be13f6c4fb11427fbf3313ce93b97cc0/item/Gungeon_PrimaryPromo-2560x1440-a34ca96251763ff6deb8529a4a39d0a8.jpg",
-      "logo-image": "https://cdn1.epicgames.com/be13f6c4fb11427fbf3313ce93b97cc0/item/EnterTheGungeon_GameLogo-1031x353-bedda5b87f979bea3218672710f766b3.png",
-      "main-image": "https://cdn1.epicgames.com/be13f6c4fb11427fbf3313ce93b97cc0/item/Gungeon_PortraitPromo-1280x1440-16a72d4e2592d6a8eb57fbc059d7a4d2.jpg",
-      "provider": "epic",
-      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\4DEA759B4BBF89912A0F0AA7D5575CAC.item",
-      "title": "Enter the Gungeon"
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/a6a26f314069ebb069766ea507f7ab96.png",
+        "https://cdn.steamgriddb.com/grid/984132444a56920f64b3063bda47f97a.png",
+        "https://cdn.steamgriddb.com/grid/5bb0b4dd9a4f5c0de3564b63d74bcf5f.png",
+        "https://cdn.steamgriddb.com/grid/291f56168b8eadd948e7c310c1355f24.png",
+        "https://cdn.steamgriddb.com/grid/10951bd401e39b25cfb3f7048f23e7a8.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/6f4cd99a018a8af95129d70b6879cc66.png",
+        "https://cdn.steamgriddb.com/grid/a9410746047725298db12ef6eece6487.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_714010.acf",
+      "title": "Aim Lab"
     },
     {
-      "main-image": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/item/RoCo_EGS_BaseGame_PortraitProduct_1200x1600-1200x1600-886450991cadd15b0e5e08b80f671556.jpg",
-      "wide-image": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/item/RoCo_EGS_BaseGame_HeroCarousel_1920x1080-1920x1080-ccb9e1e2dc0a89e1c1b5aa29c1a18769.jpg",
-      "provider": "epic",
-      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\CC2821C54EC9521303AB3DB9162930A8.item",
-      "title": "Rogue Company"
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/f0bacf5e045a45f6468a5c9928f55aac.png",
+        "https://cdn.steamgriddb.com/grid/3ee03b285337e2b834c0294c0b07a7b7.png",
+        "https://cdn.steamgriddb.com/grid/72e4dad96c0862961705fabcdf294de3.png",
+        "https://cdn.steamgriddb.com/grid/40d96f51118b6c2b574cbe5ee9f0f8ee.png",
+        "https://cdn.steamgriddb.com/grid/9f8109f0c1ba2abe959fac9203fe19be.png",
+        "https://cdn.steamgriddb.com/grid/17a9d213adc80dfca5544bde21b4ce41.png",
+        "https://cdn.steamgriddb.com/grid/4f11d03787c4aee4f713ca61f8b7a0b4.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/f68b5a44fdcb800076afc2ea0fe16305.png",
+        "https://cdn.steamgriddb.com/grid/b7c341015338340fc8cc5c21e0473579.png",
+        "https://cdn.steamgriddb.com/grid/fd4d801731725513a4d77aa9bb35534b.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_320240.acf",
+      "title": "We Happy Few"
     },
     {
-      "main-image": "https://cdn1.epicgames.com/8432511ef63b489b843d21ff486a0355/item/EGS_TorchlightII_RunicGames_S2-1200x1600-39504450e62136e79307e2493e48ef8d.jpg",
-      "wide-image": "https://cdn1.epicgames.com/8432511ef63b489b843d21ff486a0355/item/EGS_TorchlightII_RunicGames_S3-2560x1440-d8785a9ad9572e68e45d5a9471e4b81b.jpg",
-      "provider": "epic",
-      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\82CEAC914F36117ABA47BA927876CEB3.item",
-      "title": "Torchlight II"
-    },
-    {
-      "wide-image": "https://cdn1.epicgames.com/5c0d568c71174cff8026db2606771d96/item/EGS_SubsetGames_IntotheBreach_S1-2560x1440-dba55f96ffe7af34552ed2215f921bdc.jpg",
-      "main-image": "https://cdn1.epicgames.com/5c0d568c71174cff8026db2606771d96/item/EGS_SubsetGames_IntotheBreach_S2-1280x1440-22e899c71d5a2bf7bc9353cc3f6e46d2.jpg",
-      "logo-image": "https://cdn1.epicgames.com/5c0d568c71174cff8026db2606771d96/item/EGS_SubsetGames_IntotheBreach_IC1-200x200-49a3bf4ab351e9aa255e2e52c8368346.png",
-      "provider": "epic",
-      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\E9F13D7C424D9C4B4182159D9557D77A.item",
-      "title": "Into The Breach"
-    },
-    {
-      "wide-image": "https://cdn1.epicgames.com/azalea/item/EN_Yager_TheCycle_S1_2560x1440-2560x1440-478ff1fc88aff44e7d924300f1147d15.jpg",
-      "main-image": "https://cdn1.epicgames.com/azalea/item/Shop_tile_F_06-1200x1600-d7d7bc166a8a0ede883aa27cffc94a51.jpg",
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/f66793239dbe9ca52589b1838d6c4bfc.png",
+        "https://cdn.steamgriddb.com/grid/042f42c290f035a4d2e21d9886520e59.png",
+        "https://cdn.steamgriddb.com/grid/b0e875733636b8751f284ef34034a608.png",
+        "https://cdn.steamgriddb.com/grid/0b2be7d46fc2b003cd90d27ebdcbbd64.png",
+        "https://cdn.steamgriddb.com/grid/5d3a63228a98ae54aaecff74e0d32577.png",
+        "https://cdn.steamgriddb.com/grid/8b2c5535d232cb9ff45a6944915000b1.png",
+        "https://cdn.steamgriddb.com/grid/4fbb34893d933629fe7d7e31ed3d7cc0.png",
+        "https://cdn.steamgriddb.com/grid/6eb5d376f053814311bc86665273ac14.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/5f4d4b4da67c9adec00590be5904256e.png"
+      ],
       "provider": "epic",
       "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\828BF7954F4FCEAC08EAE59B98A1DA95.item",
       "title": "The Cycle"
     },
     {
-      "wide-image": "https://cdn1.epicgames.com/petunia/item/M2033-Redux_Library_Primary_Promo-2580x1450-fe8ec6f0777e29e75c9897a4cb7c6121.jpg",
-      "logo-image": "https://cdn1.epicgames.com/petunia/item/M2033_GameLogo-1405x800-df93c960cf07a8869de25468fe361de7.png",
-      "main-image": "https://cdn1.epicgames.com/petunia/item/M2033_PortraitPromo-1280x1420-b2ca7af4c9382b02b7370722b95ef6de.jpg",
-      "provider": "epic",
-      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\8760F8A044227869D70B088CCFDE6B37.item",
-      "title": "Metro 2033 Redux"
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/d388a37fd8f568450551b51ae4d2f124.png",
+        "https://cdn.steamgriddb.com/grid/cfc5ef5c3ea43d3e401f6e3496580f6b.png",
+        "https://cdn.steamgriddb.com/grid/0a16b09784bae8287858faf95511a66e.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/a7d3154ed40d4dbebf306630991b11a7.png",
+        "https://cdn.steamgriddb.com/grid/31429ccef08e1dfc4839ba23a3d2443a.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_445980.acf",
+      "title": "Wizard of Legend"
     },
     {
-      "logo-image": "https://cdn1.epicgames.com/0e87bed2a83c4cf6a68a7aeb43f25cf0/item/EGS_RawFury_KingdomNewLands_IC1_LogoColor-520x194-6a025871f80bf64e261c2cfd499c20f7.png",
-      "wide-image": "https://cdn1.epicgames.com/0e87bed2a83c4cf6a68a7aeb43f25cf0/item/EGS_RawFury_KingdomNewLands_G1_PDPPromo_Image-2560x1440-7aadfb97ae5a2d4b59a3bef27ecf17fb.jpg",
-      "main-image": "https://cdn1.epicgames.com/0e87bed2a83c4cf6a68a7aeb43f25cf0/item/EGS_RawFury_KingdomNewLands_S3_StorePortraitPromo-1280x1440-a1f13da9db6f52b17b758782be5aa352.jpg",
-      "provider": "epic",
-      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\EB0ACB4641C10FB4D6B5D4865198C129.item",
-      "title": "Kingdom New Lands"
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/3ca5a9d2f776398791637ceeadd3601f.png",
+        "https://cdn.steamgriddb.com/grid/86354050d61a621a89727c572a0bddf0.png",
+        "https://cdn.steamgriddb.com/grid/bd38dd532fb08c9844287fe1355fda00.png",
+        "https://cdn.steamgriddb.com/grid/50159d1448c68b914982f1521cee930b.png",
+        "https://cdn.steamgriddb.com/grid/e176f74f5a1ff41be39a04f6fc2178f6.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/b8986492278e5864d6b7107734bcbcdf.png",
+        "https://cdn.steamgriddb.com/grid/cf7f647b01e175d2d6cf49c2c80e3525.png",
+        "https://cdn.steamgriddb.com/grid/4e6cd95227cb0c280e99a195be5f6615.png",
+        "https://cdn.steamgriddb.com/grid/bba6bca05fecde04c682328e44b974b7.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_247080.acf",
+      "title": "Crypt of the NecroDancer"
     },
     {
-      "main-image": "https://cdn.steamgriddb.com/grid/310c9f9103377d00000d96691fccfe23.png",
-      "wide-image": "https://cdn.steamgriddb.com/grid/4490759a6b69ecb7c170d8e1476be569.png",
-      "provider": "epic",
-      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\8CD9EF264A8BF5B80940348B0BCEA41A.item",
-      "title": "Alien: Isolation"
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/3f6e7a81e3ba102fedaa53ec09cface5.png",
+        "https://cdn.steamgriddb.com/grid/eb77afcb88421c88cb10287d8454c457.png"
+      ],
+      "wide-image": [],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_1217060.acf",
+      "title": "Gunfire Reborn"
     },
     {
-      "main-image": "https://cdn.steamgriddb.com/grid/bf5c13b2138225938ec63f7ce0694431.png",
-      "wide-image": "https://cdn.steamgriddb.com/grid/6a12f449790ed7be96d77aa4c7d9c1c1.png",
-      "provider": "epic",
-      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\06C1EC0D435F52AC9140339C64963CF6.item",
-      "title": "Darkest Dungeon®"
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/276d4ed0cd119f0ed99f83bed96840e7.png",
+        "https://cdn.steamgriddb.com/grid/0b59f3fac77b2e56654d1b15a9e0b8f2.png",
+        "https://cdn.steamgriddb.com/grid/066906620e978664f94cd28d5e2aed02.png",
+        "https://cdn.steamgriddb.com/grid/cd49a384f710b35a9f39f443f956baa8.png"
+      ],
+      "wide-image": [],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_212800.acf",
+      "title": "Super Crate Box"
     },
     {
-      "main-image": "https://cdn.steamgriddb.com/grid/5979ef626c95c5c8d9ca4f4e9a366a15.png",
-      "wide-image": "https://cdn.steamgriddb.com/grid/2ef35a8b78b572a47f56846acbeef5d3.png",
-      "provider": "epic",
-      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\391CB16D419F845DC706A7AD8DD5989A.item",
-      "title": "Stranded Deep"
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/ba14961ae2176d0e7426952d44b846c7.png",
+        "https://cdn.steamgriddb.com/grid/21f58f0ac4e47b818ce64114b2c987eb.png",
+        "https://cdn.steamgriddb.com/grid/cb70f7a0793b0e62c2687d90b7aa6801.png",
+        "https://cdn.steamgriddb.com/grid/dd7c4614cf70d08d05a3cc7423f16958.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/60b4471e1fb1e8e0d266d97071669ccb.png",
+        "https://cdn.steamgriddb.com/grid/f80e5da6506976751cd649526fadd906.png",
+        "https://cdn.steamgriddb.com/grid/eac985bdaa76cf352ab7e8ecc48c0618.png",
+        "https://cdn.steamgriddb.com/grid/413f2dc2067072c4339624db3d9fa537.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_1172470.acf",
+      "title": "Apex Legends"
     },
     {
-      "main-image": "https://cdn.steamgriddb.com/grid/0f1fc687aa65dc3bfee3c053472ce62a.png",
-      "wide-image": "https://cdn.steamgriddb.com/grid/81fd0241fd6df61d5201d65fd47bb698.png",
-      "provider": "epic",
-      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\456C34014C9640227AF02A851D9E59F2.item",
-      "title": "Cities: Skylines"
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/06c18b3b6efcda74c9893bb840acd28e.png",
+        "https://cdn.steamgriddb.com/grid/9b4450657b729805699f580026d3c119.png",
+        "https://cdn.steamgriddb.com/grid/feb7a0468c340eca3607bb7f8c20071c.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/6a26c75d6a576c94654bfc4dda548c72.png",
+        "https://cdn.steamgriddb.com/grid/91139f12ae3f102e07a6c8c7333b685d.png",
+        "https://cdn.steamgriddb.com/grid/3c39d9d70b662746b8ef049c9841643a.png",
+        "https://cdn.steamgriddb.com/grid/ed8a8a99fd79417dd5ee86e141fc2233.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_466560.acf",
+      "title": "Northgard"
     },
     {
-      "main-image": "https://cdn.steamgriddb.com/grid/a6c5be3b96e356fe8719f9c8ac2635f1.png",
-      "wide-image": "https://cdn.steamgriddb.com/grid/8523109c9a85dbfc46eb1f46955b5449.png",
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/064650c3a068bb1d23d04440cdface38.png",
+        "https://cdn.steamgriddb.com/grid/cde88643eea575802e3a9a3dc7136542.png",
+        "https://cdn.steamgriddb.com/grid/22e64710cc40fc26bffb1413be195627.png",
+        "https://cdn.steamgriddb.com/grid/70dda6cef95c06a54358188d92b96a30.png",
+        "https://cdn.steamgriddb.com/grid/5e4fa07730a6fdde0811da94e3c2f82b.png",
+        "https://cdn.steamgriddb.com/grid/27099b1bb4f5d2f647df1faef21a5d9a.png",
+        "https://cdn.steamgriddb.com/grid/5397c5ef33e94766ca6a978a53256e21.png",
+        "https://cdn.steamgriddb.com/grid/21f3d4bc641e7a5a14e17d0d54dd9883.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/873111dfe6a0f5f2008f00687567e5d8.png",
+        "https://cdn.steamgriddb.com/grid/806c472f05c8e1ec7b4eee6b9d2190b6.png"
+      ],
       "provider": "epic",
-      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\CB2F3C6A4EE214AA4527B1B665A4C971.item",
-      "title": "Layers of Fear 2"
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\1688AE14468AEB6836468EA564311FCC.item",
+      "title": "Dungeons 3"
     },
     {
-      "main-image": "https://cdn.steamgriddb.com/grid/6470e4c6393b507120fa20e08607d65e.png",
-      "wide-image": "https://cdn.steamgriddb.com/grid/f1c56338ebafdbe263515bec026ee74d.png",
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/04766957db82a24eaa3006fb015798ba.png",
+        "https://cdn.steamgriddb.com/grid/399039ad1a8b24219241ea10b387e7b6.png",
+        "https://cdn.steamgriddb.com/grid/a028123bdd01ea9ff8dc3c780e9c0cd8.png",
+        "https://cdn.steamgriddb.com/grid/5c1697b2090acdf06d589303b060b78a.png",
+        "https://cdn.steamgriddb.com/grid/9e43f139d4d0b256241fdb164b4978f4.png",
+        "https://cdn.steamgriddb.com/grid/c1340d06be419cfe28c625cc8f4cebce.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/4fb8a7a22a82c80f2c26fe6c1e0dcbb3.png",
+        "https://cdn.steamgriddb.com/grid/56c82ccd658e09e829f16bb99457bcbc.png",
+        "https://cdn.steamgriddb.com/grid/cc650618dcee9d88ceb45f6403016b05.png",
+        "https://cdn.steamgriddb.com/grid/52bf52446a69bed89208a3a2a9b1f5e7.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_230410.acf",
+      "title": "Warframe"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/a72f7281b4d7cd59e1fa572109f5a651.png",
+        "https://cdn.steamgriddb.com/grid/84a87065f7f60ef2a98a691c1873ca0f.png",
+        "https://cdn.steamgriddb.com/grid/c743e683f3a2b9bb2eb4bc08f698b559.png",
+        "https://cdn.steamgriddb.com/grid/22bbbd1842a90da8f17e7aaf08a7ba84.png",
+        "https://cdn.steamgriddb.com/grid/55a3c8423eb4c12b794b1a1d92ba2294.png",
+        "https://cdn.steamgriddb.com/grid/800a3b4b5ee80575fb60d1f2d312cd10.png",
+        "https://cdn.steamgriddb.com/grid/3f51893d3aaa2449af935b5359f0a676.png",
+        "https://cdn.steamgriddb.com/grid/76e24b5d6cf1894fa8bf738ed10f9c88.png",
+        "https://cdn.steamgriddb.com/grid/94e005c18b383d12a8924d5d1367610d.png",
+        "https://cdn.steamgriddb.com/grid/9fa430581578ef37f0d1bff834d8502d.png",
+        "https://cdn.steamgriddb.com/grid/ee1a417b3a31db5c55b724e416209d27.png",
+        "https://cdn.steamgriddb.com/grid/4af18db0a88eeadba85728d5b9eb795a.png",
+        "https://cdn.steamgriddb.com/grid/2e221f47d6e76beeec058faee5c8e640.png",
+        "https://cdn.steamgriddb.com/grid/1fc405aac65b7391cf82c1f213ceb6c6.png",
+        "https://cdn.steamgriddb.com/grid/4caf6aa0375b2499ebfe7e971b36eee3.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/6c19e0a6da12dc02239312f151072ddd.png",
+        "https://cdn.steamgriddb.com/grid/4b5e104aff8d766f766da12284d53651.png",
+        "https://cdn.steamgriddb.com/grid/dd939412d661b27a92e611a89e977f0a.png",
+        "https://cdn.steamgriddb.com/grid/058d6f2fbe951a5a56d96b1f1a6bca1c.png",
+        "https://cdn.steamgriddb.com/grid/4ce43eeff8805bee6936a5bcb383edc6.png",
+        "https://cdn.steamgriddb.com/grid/52e56b822322cbc9dc33606cfc3edd1c.png",
+        "https://cdn.steamgriddb.com/grid/cd474f6341aeffd65f93084d0dae3453.png",
+        "https://cdn.steamgriddb.com/grid/3bc188adb791a56ccce03630b0d9f593.png",
+        "https://cdn.steamgriddb.com/grid/3bc9f4ac200719ade62cf70b5dba1e9b.png",
+        "https://cdn.steamgriddb.com/grid/2cf203516f33059cf320d8b7ec385328.png",
+        "https://cdn.steamgriddb.com/grid/60a5a506e99d3b76a199c91aaf28c181.png",
+        "https://cdn.steamgriddb.com/grid/06fcc10b4a95f17133ee992810735a01.png",
+        "https://cdn.steamgriddb.com/grid/b1a81b069bc2f2826a038adc6ddb7f09.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_205100.acf",
+      "title": "Dishonored"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/6470e4c6393b507120fa20e08607d65e.png",
+        "https://cdn.steamgriddb.com/grid/f46650103a209ab20fe959fd49ef545a.png",
+        "https://cdn.steamgriddb.com/grid/f5d168e2be9a7320a00878e474e9d05d.png",
+        "https://cdn.steamgriddb.com/grid/aa3199d5c293effb09ae1015f62e4199.png",
+        "https://cdn.steamgriddb.com/grid/8dbe5bae98d79e33166891c075387088.png",
+        "https://cdn.steamgriddb.com/grid/97a5b8888df3ff06cce983306e74c949.png",
+        "https://cdn.steamgriddb.com/grid/de2190d93d73903e17117d31e689f6da.png",
+        "https://cdn.steamgriddb.com/grid/feb51797c701810db3a90c7da09df133.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/f1c56338ebafdbe263515bec026ee74d.png"
+      ],
       "provider": "epic",
       "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\C3A2C6C9454B0389B9362FB54DE3B167.item",
       "title": "Hyper Scape"
     },
     {
-      "main-image": "https://cdn.steamgriddb.com/grid/5363171e2d6fb9294ed15788d6874c46.png",
-      "wide-image": "https://cdn.steamgriddb.com/grid/47bd8ac1becf213f155a82244b4a696a.png",
-      "provider": "epic",
-      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\506E172A46C7FFC9ABAC44B7C32C9732.item",
-      "title": "Costume Quest 2"
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/a1e19f4b3b361936e8f079cb77c7edd4.png",
+        "https://cdn.steamgriddb.com/grid/b31af0e125cd4e8238db5db06912d6a2.png",
+        "https://cdn.steamgriddb.com/grid/1abdd1363896305b867bff7bbd5b9efd.png",
+        "https://cdn.steamgriddb.com/grid/71b8e22700e63c2a0c1bad6506549d3b.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/153e6b1e65a127ec451a3e63243617d2.png",
+        "https://cdn.steamgriddb.com/grid/0d173a5f998a6ce4a461508bd6e72668.png",
+        "https://cdn.steamgriddb.com/grid/7fd84eb9b9754bb035903d93e86a3327.png",
+        "https://cdn.steamgriddb.com/grid/5e02b868a91671f9140a41f3946f33cb.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_582660.acf",
+      "title": "Black Desert Online"
     },
     {
-      "main-image": "https://cdn.steamgriddb.com/grid/b0e65950bb01355463e3a38354d9f334.png",
-      "wide-image": "https://cdn.steamgriddb.com/grid/fcfe47c90630b5f5781b3e78f49fb566.png",
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/916bb2180ee8407ba21fa465f153923e.png",
+        "https://cdn.steamgriddb.com/grid/50bf0723b1087490d0b06c957915c7a3.png",
+        "https://cdn.steamgriddb.com/grid/ac700164abf9fe5d125586f98b4c4a6a.png",
+        "https://cdn.steamgriddb.com/grid/c9e8bebd1f410934b634288c41048dc9.png",
+        "https://cdn.steamgriddb.com/grid/8b63b93bbe10e6712a7ecfc86c7c735e.png",
+        "https://cdn.steamgriddb.com/grid/102b91e75544875f2a482fe6f9fe18b6.png",
+        "https://cdn.steamgriddb.com/grid/213334eb8d81fbc898ce3abcf98bcfa1.png",
+        "https://cdn.steamgriddb.com/grid/88a7d45c0b4b7c6d948ffff9e0be1de4.png",
+        "https://cdn.steamgriddb.com/grid/f7797c89f0833cc91f84cd1740a4cbe5.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/c3ddc652121ed52263209f0e97b3c7b0.png",
+        "https://cdn.steamgriddb.com/grid/88290d3a6d7bb6c82dae2dc05bec283a.png",
+        "https://cdn.steamgriddb.com/grid/4d3b24ccbb166a2fda032e5ff518bb2b.png"
+      ],
       "provider": "epic",
-      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\BE90F6CD47241E9CE3079583E2729479.item",
-      "title": "HITMAN"
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\CC2821C54EC9521303AB3DB9162930A8.item",
+      "title": "Rogue Company"
     },
     {
-      "main-image": "https://cdn.steamgriddb.com/grid/938f7afcfd8745c92c3010b5bf4ba75d.png",
-      "wide-image": "https://cdn.steamgriddb.com/grid/16336869d1df46f2d92671627561b2d2.png",
-      "provider": "epic",
-      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\E0C50749411F509CC481B1BC588F82BF.item",
-      "title": "Sid Meier's Civilization VI"
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/3581c5cb35d229c9ed60b39f9135f799.png",
+        "https://cdn.steamgriddb.com/grid/02fd6cf9553be2d58efe687b857830f6.png",
+        "https://cdn.steamgriddb.com/grid/69c4bb19e942fea086d5fd85078695a0.png",
+        "https://cdn.steamgriddb.com/grid/a3d95233ab20928f0a5afe5e8b781bb7.png",
+        "https://cdn.steamgriddb.com/grid/0e6cf9d31d44770e2ec111126cfd6a3b.png",
+        "https://cdn.steamgriddb.com/grid/bed9348bd05edc84217ad26fa852c7bc.png",
+        "https://cdn.steamgriddb.com/grid/c4b81bd050188ff9ed550d0929efa9f4.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/9d63484abb477c97640154d40595a3bb.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_256290.acf",
+      "title": "Child of Light"
     },
     {
-      "main-image": "https://cdn.steamgriddb.com/grid/a94595e22a11a0e271943269b1605e8d.png",
-      "wide-image": "https://cdn.steamgriddb.com/grid/ea3a48c74a9efb9a08635fe7990347cc.png",
-      "provider": "epic",
-      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\64677A004C816BA1FA758ABAEC146882.item",
-      "title": "Rocket League®"
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/20693004ec845da4c1ed7f7c05c7685a.png",
+        "https://cdn.steamgriddb.com/grid/928f4ca705f087254806b3138726f1a3.png",
+        "https://cdn.steamgriddb.com/grid/c6e2e29049c68d2d97145861756c0f94.png",
+        "https://cdn.steamgriddb.com/grid/ce110a658769b9913e1963267aab2176.png",
+        "https://cdn.steamgriddb.com/grid/578ad499e8fe67cc2d03aaa8dcd42e8a.png",
+        "https://cdn.steamgriddb.com/grid/e386b1ae7ce00ef2b176c9123494d3a1.png",
+        "https://cdn.steamgriddb.com/grid/d1a43c505e1b7697fd05899c747d53e5.png",
+        "https://cdn.steamgriddb.com/grid/5377861046ec0c6568ecbe03c9a9125c.png",
+        "https://cdn.steamgriddb.com/grid/b4ac0889689da904937922e64d0971dd.png",
+        "https://cdn.steamgriddb.com/grid/7e85bfb04eae1af627743dd44b8686bf.png",
+        "https://cdn.steamgriddb.com/grid/4c21d6da76d2be1650d4607ad476ac95.png",
+        "https://cdn.steamgriddb.com/grid/46d55a927002038e5cd3137272fb6de7.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/aadf8d65b2f581c9150a488359e4bb20.png",
+        "https://cdn.steamgriddb.com/grid/31073475fc4fe0f27c6b876472f0888e.png",
+        "https://cdn.steamgriddb.com/grid/d61fc047656a08fd0cddc1a37e4dd729.png",
+        "https://cdn.steamgriddb.com/grid/4d9c8d2d7462eeeb8ca3c70e57285c71.png",
+        "https://cdn.steamgriddb.com/grid/33515a1b2df6a4fe21ef0162d7a1eac7.png",
+        "https://cdn.steamgriddb.com/grid/8ec65ef894c6847d3a9d46ac01fd653c.png",
+        "https://cdn.steamgriddb.com/grid/f367a3b6dfb09748bd8b3d3ac10e291d.png",
+        "https://cdn.steamgriddb.com/grid/95203cab9dcecc7d956a2c57ccc06bd8.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_588650.acf",
+      "title": "Dead Cells"
     },
     {
-      "wide-image": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/item/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S5-1920x1080-689d96ca4d5a4e8de183b7a928960c87.jpg",
-      "main-image": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/item/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S6-1200x1600-591ca93f3bee7bc55a90b77ccc36eb84.jpg",
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/900b780295f3fd8e1ca09313415200f8.png",
+        "https://cdn.steamgriddb.com/grid/52c2e74398aeeeebb16f6e43047cd853.png",
+        "https://cdn.steamgriddb.com/grid/5b47026d28305ac93a74dc60cb4ee8ee.png",
+        "https://cdn.steamgriddb.com/grid/30ee81b243cfb3a5dc5e6cbfeb205a68.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/da44218a15622c3175708ce8827a4951.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_371140.acf",
+      "title": "Aegis Defenders"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/9bc661e8362657d8cbbe4bb41d17c7f3.png",
+        "https://cdn.steamgriddb.com/grid/b70188491798e86129a57180426213ff.png",
+        "https://cdn.steamgriddb.com/grid/abcdc4406f2793ceb13163902077d88c.png",
+        "https://cdn.steamgriddb.com/grid/020c38173caff02033564200e0288aa9.png",
+        "https://cdn.steamgriddb.com/grid/13d54c1b7cb469ae95f5d68b858700fb.png",
+        "https://cdn.steamgriddb.com/grid/d2f358973ec4382ff877a9f928876e90.png",
+        "https://cdn.steamgriddb.com/grid/e314108e598759363e57fd0f53ddec02.png",
+        "https://cdn.steamgriddb.com/grid/9451dc98f1c8fd35fefd626c6f58b9ef.png",
+        "https://cdn.steamgriddb.com/grid/250f443283481015bc0195ad707b16a5.png",
+        "https://cdn.steamgriddb.com/grid/15b7cf3540c616552668546b9400bbc2.png",
+        "https://cdn.steamgriddb.com/grid/5c7e145b0f881c399370c65a8cdb638c.png",
+        "https://cdn.steamgriddb.com/grid/fd7b38f7adceaf4504b7bf5c98b6d3e0.png",
+        "https://cdn.steamgriddb.com/grid/14c9e2c17237d773b240f738e9b2db9a.png",
+        "https://cdn.steamgriddb.com/grid/74b73858d36701d734a555eb4eedb3ed.png",
+        "https://cdn.steamgriddb.com/grid/2bfd7e361d9fb1a6735212495c22a286.png",
+        "https://cdn.steamgriddb.com/grid/b7425de83e28220a3f8054b0a0b5a0ab.png",
+        "https://cdn.steamgriddb.com/grid/7711921390516190b06cddc26e640ceb.png",
+        "https://cdn.steamgriddb.com/grid/b788a8f8eaf4e1a61ccb55fa2b548e3b.png",
+        "https://cdn.steamgriddb.com/grid/52c63b89e1a61f9509cf2c409902d88f.png",
+        "https://cdn.steamgriddb.com/grid/e1d7d080424ad63ef33df1adcf871bf1.png",
+        "https://cdn.steamgriddb.com/grid/6465a4a60c40749b2a21c33161abf95e.png",
+        "https://cdn.steamgriddb.com/grid/a58af0b4534762bdc1a82ca4ad4b8148.png",
+        "https://cdn.steamgriddb.com/grid/9273a0be5434b0dac51e9faaa86039ca.png",
+        "https://cdn.steamgriddb.com/grid/d6e983a23f17f59affcc47ed47d18744.png",
+        "https://cdn.steamgriddb.com/grid/26bb3de612b829fb5b33aea3193b0eba.png",
+        "https://cdn.steamgriddb.com/grid/d9efa6e0a8cba54f51b61621ed310a37.png",
+        "https://cdn.steamgriddb.com/grid/1ec00046c217d61987705eeaaeba647a.png",
+        "https://cdn.steamgriddb.com/grid/2b8aa4c8d8d89710f0e2c7c7a99692fc.png",
+        "https://cdn.steamgriddb.com/grid/2d3b08d8ece73a9edd41096203ed1ea1.png",
+        "https://cdn.steamgriddb.com/grid/62b74c5bd8bf9fec4e523c4173460160.png",
+        "https://cdn.steamgriddb.com/grid/79555ff307974ac653787cb17bca7afd.png",
+        "https://cdn.steamgriddb.com/grid/ccdac3624338e8a63a0a247eac98edef.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/e348c1b446fae14bfcf5ae20ee4c23f0.png",
+        "https://cdn.steamgriddb.com/grid/3b9b987df093605d39c7aa0e30771742.png",
+        "https://cdn.steamgriddb.com/grid/347665597cbfaef834886adbb848011f.png",
+        "https://cdn.steamgriddb.com/grid/6c154ad6387fd670b86845c2ed96db06.png",
+        "https://cdn.steamgriddb.com/grid/6f1d0705c91c2145201df18a1a0c7345.png",
+        "https://cdn.steamgriddb.com/grid/edbb005a6e96db8129190e3b07467234.png",
+        "https://cdn.steamgriddb.com/grid/2d143de72cf1e07d2f003feff12c6122.png",
+        "https://cdn.steamgriddb.com/grid/9907a2ebae0e558529efa5ab9435b19b.png",
+        "https://cdn.steamgriddb.com/grid/09feab9661466d8d732bbd38a509bcbb.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_105600.acf",
+      "title": "Terraria"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/debf48b09b591ef018c9d51f90a2a4d3.png",
+        "https://cdn.steamgriddb.com/grid/e4161440b97ffb6c598204e0b9893843.png",
+        "https://cdn.steamgriddb.com/grid/2046e4fc6f92ae6657d213cc0590d2d7.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/4a88017f1f83c4e28a64117af5969140.png",
+        "https://cdn.steamgriddb.com/grid/6ac9ae1743524cdf9197f1ea50412d72.png",
+        "https://cdn.steamgriddb.com/grid/61d0a465392566eb0d88963b87ee4404.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_431960.acf",
+      "title": "Wallpaper Engine"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/13816ba0dd3a36209cbc3cfef265dc7c.png",
+        "https://cdn.steamgriddb.com/grid/0fe69954ffa80bd82ebb4e43beff060c.webp",
+        "https://cdn.steamgriddb.com/grid/93e834de5ae9c81bc0e429317ad399c1.png",
+        "https://cdn.steamgriddb.com/grid/80f9c6ef4b5920efbd3c3e8186c04938.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/bcab3b9a2e9eb0628cfd9d237578f913.png",
+        "https://cdn.steamgriddb.com/grid/691f1c02ba340056657d9fd9f5bf017c.png",
+        "https://cdn.steamgriddb.com/grid/bb7a9343965afb3a39953de36c18a15e.png",
+        "https://cdn.steamgriddb.com/grid/aa45ea35cbdcb42012f2bf55012a0624.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_578080.acf",
+      "title": "PLAYERUNKNOWN'S BATTLEGROUNDS"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/76f3dab609e5632f344b1eb7f5861f3f.png",
+        "https://cdn.steamgriddb.com/grid/09d914fa78ad2c9bc534fead45b3d534.png",
+        "https://cdn.steamgriddb.com/grid/2797bb21fe4a6b30e61faa6026def201.png",
+        "https://cdn.steamgriddb.com/grid/8eca019dc15a07d4347cd88b8893e5ee.png",
+        "https://cdn.steamgriddb.com/grid/0a0def49c785aafcbb9d5013384afc41.png",
+        "https://cdn.steamgriddb.com/grid/ae2ab8510990af8af31875b24b033183.png",
+        "https://cdn.steamgriddb.com/grid/ca8d2d656b22681297a14f8d2f08da4c.png",
+        "https://cdn.steamgriddb.com/grid/bd9f22c1185835a635e14a5b0f69caf7.png",
+        "https://cdn.steamgriddb.com/grid/f4e33073f63e22196fb6be9745191e79.png",
+        "https://cdn.steamgriddb.com/grid/6e1e62335a75d469de0550c35fbc45ba.png",
+        "https://cdn.steamgriddb.com/grid/e0e09147966c74b089b16f3ad616d9ef.png",
+        "https://cdn.steamgriddb.com/grid/34809abca9216a74748ce373a7738a14.png",
+        "https://cdn.steamgriddb.com/grid/c4b9e359d3c1bbe0eb22ed0017baf6ce.png",
+        "https://cdn.steamgriddb.com/grid/461d56ba236afac68799535c46d1855a.png",
+        "https://cdn.steamgriddb.com/grid/7ff3c0e26b571e482321dc8087c96804.png",
+        "https://cdn.steamgriddb.com/grid/479915fe3100a2152b01166534b89379.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/06fb19e620ff0639ab07f26b4f1b1107.png",
+        "https://cdn.steamgriddb.com/grid/f54a993e214a2ab48c6382550feefe94.png",
+        "https://cdn.steamgriddb.com/grid/383039867253008a2329c2dd81692a8e.png",
+        "https://cdn.steamgriddb.com/grid/ac8cd1808dc30460a81cab1b0e6652fa.png",
+        "https://cdn.steamgriddb.com/grid/d8074a35855a7f4935e3e19222d9a9eb.png",
+        "https://cdn.steamgriddb.com/grid/8ce8b102d40392a688f8c04b3cd6cae0.png"
+      ],
       "provider": "epic",
       "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\AB44C059459ECBC0D79950A482C6AAAA.item",
       "title": "RollerCoaster Tycoon® 3: Complete Edition"
     },
     {
-      "wide-image": "https://cdn1.epicgames.com/cobra/item/MyTimeAtPortia_SecondaryPromo-1032x580-910e41e751b04e8114c1826a5e98c3bc.png",
-      "logo-image": "https://cdn1.epicgames.com/cobra/item/MyTimeAtPortia_GameLogoColour_PNGNewSize-2235x960-337267f3a1fbf1e0d6b3370c1edfba52.png",
-      "main-image": "https://cdn1.epicgames.com/cobra/item/MyTimeAtPortia_tall-865x960-8cf010d5d5a432a0f85c669e616baa1b.png",
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/938f7afcfd8745c92c3010b5bf4ba75d.png",
+        "https://cdn.steamgriddb.com/grid/7ce9d67d85410c4531d26ee12e9640d2.png",
+        "https://cdn.steamgriddb.com/grid/47dbf8c8d861952168d96d9102343baf.png",
+        "https://cdn.steamgriddb.com/grid/cfdda37ca156ba09477b33aa2e008dda.png",
+        "https://cdn.steamgriddb.com/grid/27ba0e5a34ecd06b86478a9b8942dd2b.png",
+        "https://cdn.steamgriddb.com/grid/190c0a29f980552a4fcf0cfe3414b589.png",
+        "https://cdn.steamgriddb.com/grid/be925cdb6f03c1b58212df4c2831aedd.png",
+        "https://cdn.steamgriddb.com/grid/83551df7a2c9de05f62f1d33964baaa7.png",
+        "https://cdn.steamgriddb.com/grid/4f0707d3501c6ff1532c927f43685768.png",
+        "https://cdn.steamgriddb.com/grid/e6a6267b33d8c568fb92aacd5edbeda1.png",
+        "https://cdn.steamgriddb.com/grid/5a9c09d69b8f721da706fed68555ac5e.png",
+        "https://cdn.steamgriddb.com/grid/e780a5d10204ac214c7a8b63c7e982e8.png",
+        "https://cdn.steamgriddb.com/grid/2c305710f3d4530c4cb832629b68a620.png",
+        "https://cdn.steamgriddb.com/grid/4c8cb9b614bd99032d01aa6d93f174a0.png",
+        "https://cdn.steamgriddb.com/grid/028076e5c6b2065d3b5a949eeff56138.png",
+        "https://cdn.steamgriddb.com/grid/632725352efe55675c8084885bdc2c88.png",
+        "https://cdn.steamgriddb.com/grid/996537a05d20697926cfec0512f27617.png",
+        "https://cdn.steamgriddb.com/grid/3d639265ea3bf56cd8e658447e8e6f10.png",
+        "https://cdn.steamgriddb.com/grid/15991eef901eb370bbd070a06bc25387.png",
+        "https://cdn.steamgriddb.com/grid/9ba86874e2da983005ed7beaab5de7c9.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/16336869d1df46f2d92671627561b2d2.png",
+        "https://cdn.steamgriddb.com/grid/8a010f0312373c02e0d15cdfc56ea416.png",
+        "https://cdn.steamgriddb.com/grid/c9ee6a825655d889ae6a84bde2802bc2.png",
+        "https://cdn.steamgriddb.com/grid/6d2bb9eb2c15945e521e74f65e846d1d.png",
+        "https://cdn.steamgriddb.com/grid/3ad980cc442688dcd2cb1052725e2683.png",
+        "https://cdn.steamgriddb.com/grid/26079c271736e881b2c523644f8de690.png",
+        "https://cdn.steamgriddb.com/grid/9e925259d9d363b290c7e47209cd2ad7.png",
+        "https://cdn.steamgriddb.com/grid/440924c5948e05070663f88e69e8242b.png",
+        "https://cdn.steamgriddb.com/grid/695494b434b3711f396bc5f0d3c0a54e.png",
+        "https://cdn.steamgriddb.com/grid/a19acd7d2689207f9047f8cb01357370.png",
+        "https://cdn.steamgriddb.com/grid/f0e6d819eb9557e2fc97ac251d6bcd2a.png",
+        "https://cdn.steamgriddb.com/grid/88a839f2f6f1427879fc33ee4acf4f66.png",
+        "https://cdn.steamgriddb.com/grid/e140dbab44e01e699491a59c9978b924.png"
+      ],
       "provider": "epic",
-      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\2142AC9A4E6BED4D6C500DB0CC20E019.item",
-      "title": "My Time at Portia"
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\E0C50749411F509CC481B1BC588F82BF.item",
+      "title": "Sid Meier's Civilization VI"
     },
     {
-      "fake": "",
-      "wide-image": "https://cdn1.epicgames.com/newt/item/EGS_Spellbreak_ProletariatInc_S5-1920x1080-256f590bad9f869587c0be7b358853fc-1920x1080-256f590bad9f869587c0be7b358853fc.jpg",
-      "main-image": "https://cdn1.epicgames.com/newt/item/EGS_Spellbreak_ProletariatInc_S6-1200x1600-8cf5fbf5533eb5644cec429a257b6b69-1200x1600-8cf5fbf5533eb5644cec429a257b6b69.jpg",
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/04eccd0076a2ba4c0ab95a548cb90543.png",
+        "https://cdn.steamgriddb.com/grid/a25ba10bc2bab7c626fcc5d75907e999.png",
+        "https://cdn.steamgriddb.com/grid/662f410d4a2e477333bcf60964bb3aa6.png",
+        "https://cdn.steamgriddb.com/grid/47662848adb61d794182b8ba21fb07c0.png",
+        "https://cdn.steamgriddb.com/grid/3709fc58b2288748d62b0ef3ded1f7f3.png",
+        "https://cdn.steamgriddb.com/grid/e87e899ce81c47597d2c969ec25e55f7.png",
+        "https://cdn.steamgriddb.com/grid/0e095eb164d055ac648799afb2607926.png",
+        "https://cdn.steamgriddb.com/grid/19068f5b0c1f2f09776a8a1fd7f907bc.png",
+        "https://cdn.steamgriddb.com/grid/9a18c77572a2181f8bb6a4b13921a606.png",
+        "https://cdn.steamgriddb.com/grid/b1a3f5837d7acb688b1c1980c175f20d.png",
+        "https://cdn.steamgriddb.com/grid/5f0648666b18f220bbc359d4c70dad24.png",
+        "https://cdn.steamgriddb.com/grid/16d22cb50df0b47832bebc0021ee6f24.png",
+        "https://cdn.steamgriddb.com/grid/0dc4ae14988c1f79433e901c4d454e79.png",
+        "https://cdn.steamgriddb.com/grid/9f8b66c7a9b19ec7f316b54c72d40bca.png",
+        "https://cdn.steamgriddb.com/grid/61328c96b09ebd25ec974cc7f9430f8b.png",
+        "https://cdn.steamgriddb.com/grid/e42b26158f6542275d86bce7d5d03400.png",
+        "https://cdn.steamgriddb.com/grid/9b33d45b795a58e58ab585b10f9c49aa.png",
+        "https://cdn.steamgriddb.com/grid/6f7fcdd58aa703d420609c5a8a77917c.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/06a81a4fb98d149f2d31c68828fa6eb2.png",
+        "https://cdn.steamgriddb.com/grid/d1ac549dbfdec4a0d49baec903648bb4.png",
+        "https://cdn.steamgriddb.com/grid/f10f2da9a238b746d2bac55759915f0d.png",
+        "https://cdn.steamgriddb.com/grid/e14e58299bc41e7fb10c701130c5cb27.png",
+        "https://cdn.steamgriddb.com/grid/6213a8959a9a96589ca484dfd1e25053.png",
+        "https://cdn.steamgriddb.com/grid/cdbc9bca0a9fd93852571cced0089c4d.png",
+        "https://cdn.steamgriddb.com/grid/697e382cfd25b07a3e62275d3ee132b3.png",
+        "https://cdn.steamgriddb.com/grid/ad47a008a2f806aa6eb1b53852cd8b37.png",
+        "https://cdn.steamgriddb.com/grid/337f9ed612c378ae249fdbcc432c0f72.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_211820.acf",
+      "title": "Starbound"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/1b72859350810d1fce00822a42af66c2.png",
+        "https://cdn.steamgriddb.com/grid/d1c254c3874173058581dee7925c1003.png",
+        "https://cdn.steamgriddb.com/grid/e6aa1b56ad0ea50842827adfee2b6646.png",
+        "https://cdn.steamgriddb.com/grid/8c22c7c9cc8979366b0504ff8e27ae0e.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/ba0c381a53d4575d96bf70873edc52a4.png",
+        "https://cdn.steamgriddb.com/grid/10e4d7889812f78893b86aeb04111871.png",
+        "https://cdn.steamgriddb.com/grid/5f6780632f5d27dd0cded5fc9361169e.png",
+        "https://cdn.steamgriddb.com/grid/b22c8dd80eaa4578ca19fc1c6e983da7.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_257850.acf",
+      "title": "Hyper Light Drifter"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/ccf84f58b0ebd2721d3dc8bfa260170f.png",
+        "https://cdn.steamgriddb.com/grid/0c53eb2a2219589b8565c4e31f948f8b.png",
+        "https://cdn.steamgriddb.com/grid/b1525bba7fa872a7cea1c50071dd681d.png",
+        "https://cdn.steamgriddb.com/grid/85c90b1fe3994b083de4f801af0d4645.png",
+        "https://cdn.steamgriddb.com/grid/86ebc43444cdf451b149e5de84ff3ef5.png",
+        "https://cdn.steamgriddb.com/grid/eaa9bf7df753a0756ace3d7553bc11ff.png",
+        "https://cdn.steamgriddb.com/grid/d22169d209caf214c6f75f501b107b09.png",
+        "https://cdn.steamgriddb.com/grid/e4307462005493743b6178622c588208.png",
+        "https://cdn.steamgriddb.com/grid/565f25dc30f2dcc716b610cbc31dbab9.png",
+        "https://cdn.steamgriddb.com/grid/ddc5d0f7cf25f1e72a8f251da82fdebb.png",
+        "https://cdn.steamgriddb.com/grid/d00d69aa0e90866bb2851f176cda07b6.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/67388f1834f7d6243b753ec33584a8df.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_607260.acf",
+      "title": "McOsu"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/812ecfeb46231fd70ccf55bf0d33cba2.png",
+        "https://cdn.steamgriddb.com/grid/3400a7cc4c590b9f55f55c5863e1707a.png",
+        "https://cdn.steamgriddb.com/grid/b84c6232ab788c77d7b4dc45213c4b5d.png",
+        "https://cdn.steamgriddb.com/grid/b26dda5248b725e9bd9c9bcec3d628b4.png",
+        "https://cdn.steamgriddb.com/grid/4a103beafa500df0710fee27b0ae6cc2.png",
+        "https://cdn.steamgriddb.com/grid/37d92d59a2b02e0256aa1d2bddcfa50d.png",
+        "https://cdn.steamgriddb.com/grid/feef0322a34245d142dfd603913667dc.png",
+        "https://cdn.steamgriddb.com/grid/7632c390edac65d3e7f43ca614bdfcda.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/c15e1bfe1ac5ed47bec025ca88301b3f.png",
+        "https://cdn.steamgriddb.com/grid/f5e647292cc4e1064968ca62bebe7e47.png",
+        "https://cdn.steamgriddb.com/grid/e3bc4e7f243ebc05d66a0568a3331966.png",
+        "https://cdn.steamgriddb.com/grid/cf76c4cd2c8f67fea31b8c15d16ca3bc.png",
+        "https://cdn.steamgriddb.com/grid/07efc6993f625bff549d19d1518f3537.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_221910.acf",
+      "title": "The Stanley Parable"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/4904f82c12cecf6ec070fe77d7e913ce.png",
+        "https://cdn.steamgriddb.com/grid/836e7bbc61e2aaef090f54adb883a6c0.png",
+        "https://cdn.steamgriddb.com/grid/2f87d717bf556321774d1b4975d2e1c1.png",
+        "https://cdn.steamgriddb.com/grid/e131fa896265671584c9b01cb0ed51cd.png",
+        "https://cdn.steamgriddb.com/grid/638475c25d18c55deebf797279444fa1.png",
+        "https://cdn.steamgriddb.com/grid/c6a0b1e6317e64957bd2319daa8075c8.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/b37a323283e59c84e5f47ae739751357.jpg",
+        "https://cdn.steamgriddb.com/grid/3e9dd4376743b8b13facdbaa45516f80.jpg",
+        "https://cdn.steamgriddb.com/grid/7376846f01e0b6e5f1568fef7b48a148.jpg",
+        "https://cdn.steamgriddb.com/grid/32ec5efbf03f6ba003c04394cfd34f71.jpg",
+        "https://cdn.steamgriddb.com/grid/ab73f542b6d60c4de151800b8abc0a6c.png",
+        "https://cdn.steamgriddb.com/grid/a18ad9f9bcd4e260979d102a260fc262.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_292030.acf",
+      "title": "The Witcher 3: Wild Hunt"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/4ef58cecfd0f680fd2b92dd4ba89b06f.png",
+        "https://cdn.steamgriddb.com/grid/aa543a7078449db23ffd447bcd6028e1.png",
+        "https://cdn.steamgriddb.com/grid/a28e59123b99a38c2a62cb3a38273bcf.png",
+        "https://cdn.steamgriddb.com/grid/a6549983649baa9f4bd620709c7123bd.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/4d7ec02c59b59a5d840d5c2753927c4f.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_824270.acf",
+      "title": "KovaaK 2.0"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/5979ef626c95c5c8d9ca4f4e9a366a15.png",
+        "https://cdn.steamgriddb.com/grid/cc091237c3898510ba6461cc2c6e4be9.png",
+        "https://cdn.steamgriddb.com/grid/4c899d833aef253222fc9826bb53124d.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/2ef35a8b78b572a47f56846acbeef5d3.png",
+        "https://cdn.steamgriddb.com/grid/ef0917ea498b1665ad6c701057155abe.png"
+      ],
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\391CB16D419F845DC706A7AD8DD5989A.item",
+      "title": "Stranded Deep"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/41cdd01a02e82e438790ffdace1255a1.png",
+        "https://cdn.steamgriddb.com/grid/91d5951f1734eeac9feafbbfd187b006.png",
+        "https://cdn.steamgriddb.com/grid/104c6f99020b85465ae361a92d09a8d1.png",
+        "https://cdn.steamgriddb.com/grid/381376c0b4781c5f03024f6f49d4e10a.png",
+        "https://cdn.steamgriddb.com/grid/9aca1e318536945ec8cd56c6e95ac3ac.png",
+        "https://cdn.steamgriddb.com/grid/7cbf2e74d2249d3d3b80de867ac4c5c1.png",
+        "https://cdn.steamgriddb.com/grid/35f48f3c40b10f6acbdd1cd1a8093252.png",
+        "https://cdn.steamgriddb.com/grid/44bedf0b41d3078592ca5e568fe39513.png",
+        "https://cdn.steamgriddb.com/grid/e129fb3798d317171dc9bd7d2cb43de3.png",
+        "https://cdn.steamgriddb.com/grid/51b4453760367db4ebfc2dae4f5d02ae.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/14bfa6bb14875e45bba028a21ed38046.png",
+        "https://cdn.steamgriddb.com/grid/11523b583c31d9f02e7b3d357fd0201a.png",
+        "https://cdn.steamgriddb.com/grid/5af0c1dffbb8f486ee4f3a43aa503368.png",
+        "https://cdn.steamgriddb.com/grid/f4888b3756a0441297315c4198242f8d.png",
+        "https://cdn.steamgriddb.com/grid/232fb4930a31d28b94a44961c3ca3296.png",
+        "https://cdn.steamgriddb.com/grid/24917db15c4e37e421866448c9ab23d8.png",
+        "https://cdn.steamgriddb.com/grid/d71dd235287466052f1630f31bde7932.png",
+        "https://cdn.steamgriddb.com/grid/991de292e76f74f3c285b3f6d57958d5.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_304050.acf",
+      "title": "Trove"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/afbbc424fb45f9e9f012a1d648319bc3.png",
+        "https://cdn.steamgriddb.com/grid/3573a4460171ffd6a7506c36dea8de6e.png",
+        "https://cdn.steamgriddb.com/grid/ce3d865b7bb66f7728988e0220bd51bd.png",
+        "https://cdn.steamgriddb.com/grid/83d9ed5a0710edd96cb66d91fb7c4392.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/4490759a6b69ecb7c170d8e1476be569.png",
+        "https://cdn.steamgriddb.com/grid/b3f61131b6eceeb2b14835fa648a48ff.png",
+        "https://cdn.steamgriddb.com/grid/2aaaddf27344ee54058548dc081c6541.png",
+        "https://cdn.steamgriddb.com/grid/d4b0a4ece86c42fe7c34d6eaa9aef588.png"
+      ],
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\8CD9EF264A8BF5B80940348B0BCEA41A.item",
+      "title": "Alien: Isolation"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/4a1832a5616b9499bb53de53b7e05c89.png",
+        "https://cdn.steamgriddb.com/grid/6e756d8a49a96adfe6b018a2e482d0e0.png",
+        "https://cdn.steamgriddb.com/grid/c3170f8469d39e848065a3bfc10c1b1a.png",
+        "https://cdn.steamgriddb.com/grid/b6f4fea74b15e3272171914c6ba65ef9.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/8a019a04a3042593fec469ff979be507.png",
+        "https://cdn.steamgriddb.com/grid/0af787945872196b42c9f73ead2565c8.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_278360.acf",
+      "title": "A Story About My Uncle"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/08c3af3c6f09112b192408d028bf9649.png",
+        "https://cdn.steamgriddb.com/grid/b3108c900cafd7280fe12a97bbf84daf.png",
+        "https://cdn.steamgriddb.com/grid/70ed2f2d61a4e79a4079049d01d42989.jpg",
+        "https://cdn.steamgriddb.com/grid/a91e05fecf8e5dab788490b917dfff08.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/5708bc08150358bcab702024df5a1e0d.png",
+        "https://cdn.steamgriddb.com/grid/1348c8b3dfa9441929698fc2ae07594e.png",
+        "https://cdn.steamgriddb.com/grid/5ffebde8e98ee4b9c98fcc1b30fffef6.png",
+        "https://cdn.steamgriddb.com/grid/9dfd5ed8e674be868004fd9c8ea65a44.jpg"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_976730.acf",
+      "title": "Halo: The Master Chief Collection"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/81eb8c3166ba84d9de66eb843738134b.png",
+        "https://cdn.steamgriddb.com/grid/eda54c73aca6387a7d72e7e1699a2c5a.png",
+        "https://cdn.steamgriddb.com/grid/936ed178c0f86a4d39fc45c633a5ca8f.png",
+        "https://cdn.steamgriddb.com/grid/b62a115ce467505bca2cdfda45d3286d.png",
+        "https://cdn.steamgriddb.com/grid/776b55b5ec8eda392aec950f51b2e1ec.png",
+        "https://cdn.steamgriddb.com/grid/df815c57edc6e02bfcd510d0a5dbc6a2.png",
+        "https://cdn.steamgriddb.com/grid/07da625d725f8d78daf4576f397c6e82.png",
+        "https://cdn.steamgriddb.com/grid/44b682e508a92ffb11f4f2ead3aa1d19.png",
+        "https://cdn.steamgriddb.com/grid/72ff247339a16a5e0850f7801504ead1.png",
+        "https://cdn.steamgriddb.com/grid/34b6490b1680c49fbc8c517babe30838.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/85422afb467e9456013a2a51d4dff702.png",
+        "https://cdn.steamgriddb.com/grid/ccce2fab7336b8bc8362d115dec2d5a2.png",
+        "https://cdn.steamgriddb.com/grid/f3e0eb8f4ae5f3afd35b5e4b6e5a2d78.png",
+        "https://cdn.steamgriddb.com/grid/646709d0ce8fec7d0c6734a04bb676b0.png",
+        "https://cdn.steamgriddb.com/grid/fc2022c89b61c76bbef978f1370660bf.png",
+        "https://cdn.steamgriddb.com/grid/3a0f19df72fef0495c54ced664735a7d.png",
+        "https://cdn.steamgriddb.com/grid/e41e164f7485ec4a28741a2d0ea41c74.png",
+        "https://cdn.steamgriddb.com/grid/8ca01ea920679a0fe3728441494041b9.png",
+        "https://cdn.steamgriddb.com/grid/3d93dff0744dbe667f649ed61dee5706.png",
+        "https://cdn.steamgriddb.com/grid/b7047de829d825ee006ea729cbaf8bff.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_72850.acf",
+      "title": "The Elder Scrolls V: Skyrim"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/5363171e2d6fb9294ed15788d6874c46.png",
+        "https://cdn.steamgriddb.com/grid/85f690eef5acb1c27200a2e469e5cc49.png",
+        "https://cdn.steamgriddb.com/grid/a517c0412873dc9c1f5b25c65603c1f4.png",
+        "https://cdn.steamgriddb.com/grid/73a3b8778caf371a6baa7bb48270903a.png",
+        "https://cdn.steamgriddb.com/grid/75f5a325280e4f8d8402d0300e9da4f7.png",
+        "https://cdn.steamgriddb.com/grid/c97c8f6641c51f119d1c5ab3ad757213.png",
+        "https://cdn.steamgriddb.com/grid/dceb8c7369680b81d02c4f7a7302c00b.png",
+        "https://cdn.steamgriddb.com/grid/2b1488ea4f41f775d267fd910480d14a.png",
+        "https://cdn.steamgriddb.com/grid/a419a8cf42e1c2b64981c3f2308bf6f2.png",
+        "https://cdn.steamgriddb.com/grid/e3e93eee355774323118a58fb792ad4e.png",
+        "https://cdn.steamgriddb.com/grid/cc6e5b68301b81b49a2a8011cea43f0e.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/47bd8ac1becf213f155a82244b4a696a.png",
+        "https://cdn.steamgriddb.com/grid/ae17a511178b123c2b3c61f0283eeaea.png",
+        "https://cdn.steamgriddb.com/grid/1e7873014da814b193f918ee74622031.png",
+        "https://cdn.steamgriddb.com/grid/c20cbf08834c32e106350909a16de19e.png",
+        "https://cdn.steamgriddb.com/grid/c36214df5bdf67eaf55e6620f468b0ec.png"
+      ],
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\506E172A46C7FFC9ABAC44B7C32C9732.item",
+      "title": "Costume Quest 2"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/c6a8488de86eddf87c84edf4136a1126.png",
+        "https://cdn.steamgriddb.com/grid/916de785d2ef62534956d827ef074884.png",
+        "https://cdn.steamgriddb.com/grid/9231cf33ba4a94d91af5b5071a671346.png",
+        "https://cdn.steamgriddb.com/grid/d213dab3531f5546bd40cc3960c58e00.png",
+        "https://cdn.steamgriddb.com/grid/7d960e1ccbd69af0a405769c02fdf08d.png",
+        "https://cdn.steamgriddb.com/grid/a404b1d85de4597ad70bb45366c7101c.png",
+        "https://cdn.steamgriddb.com/grid/2f7331500191e741cb67b8fadb7d6957.png",
+        "https://cdn.steamgriddb.com/grid/84e5172ead2f3c5edee5db3c62d44df5.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/7810ccd41bf26faaa2c4e1f20db70a71.png",
+        "https://cdn.steamgriddb.com/grid/cc3d69ed781b16bce06687822ae56e6d.png",
+        "https://cdn.steamgriddb.com/grid/d3630410c51e60941a9001a46871070e.png",
+        "https://cdn.steamgriddb.com/grid/f005e17eabbb0d38b06b8a78f3637d85.png",
+        "https://cdn.steamgriddb.com/grid/0a27b0193970757955db1cae7efb9c3a.png",
+        "https://cdn.steamgriddb.com/grid/7f620f5c618aab07b864cbf7ab69974e.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_730.acf",
+      "title": "Counter-Strike: Global Offensive"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/a2a561ffc61849e2ba1ad94624ad4e0b.png",
+        "https://cdn.steamgriddb.com/grid/36d4ba2da6e7d3b13eb0aab85cc2e2b9.png",
+        "https://cdn.steamgriddb.com/grid/108a525a89b7c0224a5a4ca3abb718a2.png",
+        "https://cdn.steamgriddb.com/grid/ed01bc23ad85be7ae6fd2e5a9b701c39.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/dc6a7e655d7e5840e66733e9ee67cc69.png",
+        "https://cdn.steamgriddb.com/grid/f6c744ece7e1a36892eba3a5d2938110.png",
+        "https://cdn.steamgriddb.com/grid/1f239457a5b2fb11ddafc392ffd18e1f.png",
+        "https://cdn.steamgriddb.com/grid/56034e3017a60728e3f1ce4ba40aeeeb.png"
+      ],
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\4DEA759B4BBF89912A0F0AA7D5575CAC.item",
+      "title": "Enter the Gungeon"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/248fc45afe6980b6b520b592ff9de696.png",
+        "https://cdn.steamgriddb.com/grid/879c7c9a27682b01e41948a42cea0cbe.png",
+        "https://cdn.steamgriddb.com/grid/c3ff484442549f18afb0b1a079784d53.png",
+        "https://cdn.steamgriddb.com/grid/50a65ecd93ea5e3c7ec99c6812cbcdf0.png",
+        "https://cdn.steamgriddb.com/grid/da7aad98682883a013549aa40dc1869d.png",
+        "https://cdn.steamgriddb.com/grid/2ae76d992a23e94c7db94e4de2900dc5.png",
+        "https://cdn.steamgriddb.com/grid/0ead11de1dbb9a8dcf417f905340b843.png",
+        "https://cdn.steamgriddb.com/grid/adcd97aee38024cf580409df8ff9b447.png",
+        "https://cdn.steamgriddb.com/grid/8dbc7ea16e37403365d8f18d2a55149d.png",
+        "https://cdn.steamgriddb.com/grid/28c2dd7432db5cd6056ea8e7258a34da.png",
+        "https://cdn.steamgriddb.com/grid/64551e2b0cb9343fe5c8fbb28eff2194.png",
+        "https://cdn.steamgriddb.com/grid/aca15554a818c55856066f2830e46425.png",
+        "https://cdn.steamgriddb.com/grid/8a95617dbe550230d52fe1c033703432.png",
+        "https://cdn.steamgriddb.com/grid/374d0ee164c2197c4976ebe31b9f6269.png",
+        "https://cdn.steamgriddb.com/grid/3caf2d9b17ad63105399b122e2061eb1.png",
+        "https://cdn.steamgriddb.com/grid/5e3600417e9ac9abf5a6fea026f9b05a.png",
+        "https://cdn.steamgriddb.com/grid/9ce1997c40fe0c91f7c6388dae7d87da.png",
+        "https://cdn.steamgriddb.com/grid/a7281936f3fc45ee7b722ec7d7f06436.png",
+        "https://cdn.steamgriddb.com/grid/3a86deadb5050e173d3c02166c6f8f8f.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/2f96e47253a9f882207e621f642aa2f1.png",
+        "https://cdn.steamgriddb.com/grid/7221e5c8ec6b08ef6d3f9ff3ce6eb1d1.png",
+        "https://cdn.steamgriddb.com/grid/e5b294b70c9647dcf804d7baa1903918.png",
+        "https://cdn.steamgriddb.com/grid/ff2cc3b8c7caeaa068f2abbc234583f5.png",
+        "https://cdn.steamgriddb.com/grid/ebe048f25228d088e0216147377171b2.png",
+        "https://cdn.steamgriddb.com/grid/041307ce59d60269e84d75fa4c63868c.png",
+        "https://cdn.steamgriddb.com/grid/995e1fda4a2b5f55ef0df50868bf2a8f.png",
+        "https://cdn.steamgriddb.com/grid/bea41c1b949ddb068513c07855282ed9.png",
+        "https://cdn.steamgriddb.com/grid/383b8db4df9294254ed8fe408268b7a7.png",
+        "https://cdn.steamgriddb.com/grid/21e45351cbbcb790e2aa2e046405fb1f.png",
+        "https://cdn.steamgriddb.com/grid/7854c8701c5da6d80d602a20133d2bf8.png",
+        "https://cdn.steamgriddb.com/grid/347dd2e6c52485eebec291aa24c44883.png",
+        "https://cdn.steamgriddb.com/grid/7a8b243b2c0f7f2852ab953cdf85ad0e.png",
+        "https://cdn.steamgriddb.com/grid/15a42c1646fee0042302653e2910092b.png",
+        "https://cdn.steamgriddb.com/grid/c1b70d965ca504aa751ddb62ad69c63f.png",
+        "https://cdn.steamgriddb.com/grid/08aee6276db142f4b8ac98fb8ee0ed1b.png",
+        "https://cdn.steamgriddb.com/grid/6b03eab4f067cf8739e85bd408f05d94.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_550.acf",
+      "title": "Left 4 Dead 2"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/a6c5be3b96e356fe8719f9c8ac2635f1.png",
+        "https://cdn.steamgriddb.com/grid/b2da3d2828d535a7f8f55fc46aae92a2.png",
+        "https://cdn.steamgriddb.com/grid/ce49b7c62930aa818781c9ff64e5d84b.png",
+        "https://cdn.steamgriddb.com/grid/a064c35c300710800b626a3d7a13f320.png",
+        "https://cdn.steamgriddb.com/grid/c554942ee622a853af81e6448a2833a6.png",
+        "https://cdn.steamgriddb.com/grid/110e1a73aa3e469af2f5738046e82463.png",
+        "https://cdn.steamgriddb.com/grid/d19af2c538e0506cfda2d2fff7858763.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/8523109c9a85dbfc46eb1f46955b5449.png",
+        "https://cdn.steamgriddb.com/grid/9eaffedaf21e53232baf69748ec96457.png",
+        "https://cdn.steamgriddb.com/grid/5cc8dfeade12d0c5cd741edb9ae24d81.png",
+        "https://cdn.steamgriddb.com/grid/120672f9e76e495098e5dff24830d169.png",
+        "https://cdn.steamgriddb.com/grid/1d8d70dddf147d2d92a634817f01b239.png",
+        "https://cdn.steamgriddb.com/grid/73390cd6d99a35e120108b6e5c44cff2.png",
+        "https://cdn.steamgriddb.com/grid/12983d9a1425d18bb60b0d02ca68aeea.png"
+      ],
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\CB2F3C6A4EE214AA4527B1B665A4C971.item",
+      "title": "Layers of Fear 2"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/b9502764d2a757587e41fcd18c84c78c.png",
+        "https://cdn.steamgriddb.com/grid/3dbbde785add23e45b2d052ae6dddc1f.png",
+        "https://cdn.steamgriddb.com/grid/d1a598d77495fb6501ae53ba01c49637.png",
+        "https://cdn.steamgriddb.com/grid/2fefdc64cea4bfeacce657d0465e6eb5.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/36ac8e558ac7690b6f44e2cb5ef93322.png",
+        "https://cdn.steamgriddb.com/grid/ccdc4cb9aad8f7e879fd25464acfd917.png",
+        "https://cdn.steamgriddb.com/grid/a66b4d41a1b21574947d0d6c00e1de7a.png",
+        "https://cdn.steamgriddb.com/grid/3341f6f048384ec73a7ba2e77d2db48b.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_261640.acf",
+      "title": "Borderlands: The Pre-Sequel"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/94f8272b1be7f7ea7e793487558e10b2.png",
+        "https://cdn.steamgriddb.com/grid/abd673b91e4bb9c556da84c6f6f5d470.png",
+        "https://cdn.steamgriddb.com/grid/7059a2d0eba7ecd222956a2983b6c15c.png",
+        "https://cdn.steamgriddb.com/grid/14bcbb516f504f436b879a0752e8296a.png",
+        "https://cdn.steamgriddb.com/grid/a6114a34b8d98577284cc7142d76854d.png",
+        "https://cdn.steamgriddb.com/grid/a8020b975c94f9cae61b6cf71d9db67c.png",
+        "https://cdn.steamgriddb.com/grid/eb607421d94ea054d3cf191ae493867a.png",
+        "https://cdn.steamgriddb.com/grid/290a89ea4e42a2d13e7c4a95a400ca67.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/d71760750778a95386b703f5c9e474f0.png",
+        "https://cdn.steamgriddb.com/grid/b24af91821247450bdf7c519e8d05094.png",
+        "https://cdn.steamgriddb.com/grid/5ec5d5702a083583b268f32dde14b419.png",
+        "https://cdn.steamgriddb.com/grid/869f1e3408e5e5eb5551775fdd1970af.png",
+        "https://cdn.steamgriddb.com/grid/2c3b70d2ac93d0988edb191769dc3670.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_1151640.acf",
+      "title": "Horizon Zero Dawn"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/0d02c763e487d0d0ce6f3efb8051700d.png",
+        "https://cdn.steamgriddb.com/grid/460570bbaddf1f591078eecad76cf506.png",
+        "https://cdn.steamgriddb.com/grid/6a1f65fffe981573618a33a463de9ffa.png",
+        "https://cdn.steamgriddb.com/grid/eec15c43f6e3cf156e3649f930c89a14.png",
+        "https://cdn.steamgriddb.com/grid/846b5ac2fa57bc8f576bde1449f8f32c.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/ea9be6ea49c5c752abb11953955c90e4.png",
+        "https://cdn.steamgriddb.com/grid/d467193baadf3ec5f1d18d0757525712.png",
+        "https://cdn.steamgriddb.com/grid/d386188d8d67a3b14820069536bcaf38.png",
+        "https://cdn.steamgriddb.com/grid/6acf2725b339ee1695ebf86253f75221.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_611500.acf",
+      "title": "Quake Champions"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/e1508a958e7df0833ae54777d6475b9e.png",
+        "https://cdn.steamgriddb.com/grid/db6e7e2b449fafc55decaa715c08590e.png",
+        "https://cdn.steamgriddb.com/grid/9fd15d31837278f41e39da273fc7ef0b.png",
+        "https://cdn.steamgriddb.com/grid/7668636048c4fbe8df8ffb388679e933.png",
+        "https://cdn.steamgriddb.com/grid/83fc1972b4cb530b1c38e149f3ba2927.png",
+        "https://cdn.steamgriddb.com/grid/1c4196d0ff7fe4e94bdca98fb251bc25.png",
+        "https://cdn.steamgriddb.com/grid/355eb7f0334516be742fe1aa0db5ddf2.png",
+        "https://cdn.steamgriddb.com/grid/d0a62b2b138867d96f0521c38484b4c3.png",
+        "https://cdn.steamgriddb.com/grid/adf92f906a68a0e05462f292f17fe324.png",
+        "https://cdn.steamgriddb.com/grid/a6fb43ce1cd80648991c5e2a4ec510a5.png",
+        "https://cdn.steamgriddb.com/grid/16751b662f33b4741c65a1995a75b2ac.png",
+        "https://cdn.steamgriddb.com/grid/300e63de1d8619b4d655f841fec76fec.png",
+        "https://cdn.steamgriddb.com/grid/04f24e61ee2b62a164e9e228c5ca2751.png",
+        "https://cdn.steamgriddb.com/grid/78cb63acd2888606f925551760b69f54.png",
+        "https://cdn.steamgriddb.com/grid/d6bdad12e64bc74082fb649e46620eab.png",
+        "https://cdn.steamgriddb.com/grid/81d88d4f508d4f0d8acdf98c2b7ddbf3.png",
+        "https://cdn.steamgriddb.com/grid/9c2b69993cc5d43dc7c55e4fb226fc2c.png",
+        "https://cdn.steamgriddb.com/grid/cfa37ea299061248adb9c9b895ecfd85.png",
+        "https://cdn.steamgriddb.com/grid/644189fdc1ec6209a67f49571c6d4a8c.png",
+        "https://cdn.steamgriddb.com/grid/73e9f39058c555cef4402419635785d5.png",
+        "https://cdn.steamgriddb.com/grid/ea10ca9d671e112c6777a213168403c6.png",
+        "https://cdn.steamgriddb.com/grid/ead485acc0b761e0d652582c4946c062.png",
+        "https://cdn.steamgriddb.com/grid/b8d1494e4aa117ab746f21dfb081b22d.png",
+        "https://cdn.steamgriddb.com/grid/41a2d929c6ce15368addaa99c078257a.png",
+        "https://cdn.steamgriddb.com/grid/19696929c3b29ce118340e50dca5722a.png",
+        "https://cdn.steamgriddb.com/grid/02fb657c7b61fe576caea7139690ca97.png",
+        "https://cdn.steamgriddb.com/grid/26d5e0478dbf501cc100adffcba6acd9.png",
+        "https://cdn.steamgriddb.com/grid/41a69c66f821f25c8184aea3bb35225d.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/f629ed9325990b10543ab5946c1362fb.png",
+        "https://cdn.steamgriddb.com/grid/8edc69aa76b7aac408ba3c248aa8d7d4.png",
+        "https://cdn.steamgriddb.com/grid/6f4922f45568161a8cdf4ad2299f6d23.png",
+        "https://cdn.steamgriddb.com/grid/0a43798a4f8ecce8979c6aa0933373a6.png",
+        "https://cdn.steamgriddb.com/grid/e2701537f72184bb152aa9d26a93ecca.png",
+        "https://cdn.steamgriddb.com/grid/ef67f7c2d86352c2c42e19d20f881f53.png",
+        "https://cdn.steamgriddb.com/grid/c8d8f71dea35566f85564149a8cc8324.png",
+        "https://cdn.steamgriddb.com/grid/69d355e07534e5c2f03bac0f464bd231.png",
+        "https://cdn.steamgriddb.com/grid/252f6d4524f82b63c027def22ced5230.png",
+        "https://cdn.steamgriddb.com/grid/e8a31c08d0faff38f8bfa57c75d80828.png",
+        "https://cdn.steamgriddb.com/grid/41caf35ddce1e1f80415f7e5a1dc815f.png",
+        "https://cdn.steamgriddb.com/grid/d8ea5f53c1b1eb087ac2e356253395d8.png",
+        "https://cdn.steamgriddb.com/grid/5db30d43f3791ae82e8f09070647e4cb.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_620.acf",
+      "title": "Portal 2"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/5fc29776ab1f0b19e4e78a154adcda53.png",
+        "https://cdn.steamgriddb.com/grid/7c08483bce7910446bdd1788e5a29f23.png",
+        "https://cdn.steamgriddb.com/grid/b2c74b6da800cc1e5843266f1e2ed397.png",
+        "https://cdn.steamgriddb.com/grid/098cfa8d18627149daffb8f4e05692d0.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/9f9a92aab7b45d359ed38bb80c2085ed.png",
+        "https://cdn.steamgriddb.com/grid/997d42109766899107a54f6ed1559ad6.png",
+        "https://cdn.steamgriddb.com/grid/0ed83ca5894f30aed6da389d630d89a3.png",
+        "https://cdn.steamgriddb.com/grid/af28037dc21fedb68cf53f8f0f8f5b70.png"
+      ],
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\EB0ACB4641C10FB4D6B5D4865198C129.item",
+      "title": "Kingdom New Lands"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/bc6d7e4cd2c1f2bba38d19773d2bc1fc.png",
+        "https://cdn.steamgriddb.com/grid/7a6f5f6a69fe900cda205b8c2d811cd4.png",
+        "https://cdn.steamgriddb.com/grid/ed06dbfa853191d161b5d4ff5ade9840.png",
+        "https://cdn.steamgriddb.com/grid/d7e17720752909d88954b637cf655d4e.png",
+        "https://cdn.steamgriddb.com/grid/9452e285cf3236776fece62308081304.png",
+        "https://cdn.steamgriddb.com/grid/9a162271ad21886ea248dc0a044b606f.png",
+        "https://cdn.steamgriddb.com/grid/65709568780630a7db73155b83acd5a2.png",
+        "https://cdn.steamgriddb.com/grid/f504dbf83e6f6e7ff3167a296971435e.png",
+        "https://cdn.steamgriddb.com/grid/2d869290175b1b7ee948e97f44b0fcbd.png",
+        "https://cdn.steamgriddb.com/grid/e8fdc390336451fc3378dbdabf7dfbc6.png",
+        "https://cdn.steamgriddb.com/grid/38c49ce5b426a6c35450481ffb7c7a14.png",
+        "https://cdn.steamgriddb.com/grid/e8489e963e8948ae648d211c98c0fdda.png",
+        "https://cdn.steamgriddb.com/grid/a26a33f9a64c0713846b9b57509f9709.png",
+        "https://cdn.steamgriddb.com/grid/58859a9ea908311c27203c1baf314e37.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/e9a72c95459eab03226e3b1ade5f9fd9.png",
+        "https://cdn.steamgriddb.com/grid/fd3b98e9942a9a54d497b6ff1f7e30c5.png",
+        "https://cdn.steamgriddb.com/grid/a292f1c5874b2be8395ffd75f313937f.png"
+      ],
       "provider": "epic",
       "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\204607BB48D8A22A604DADBCF148A4F3.item",
       "title": "Spellbreak"
     },
     {
-      "logo-image": "https://cdn1.epicgames.com/7af7476ff9eb4a8d9cd9d6486224de76/item/AbzuLogo-3366x1158-bb53cbd189bef0cebbc1eece00eaa96a.png",
-      "wide-image": "https://cdn1.epicgames.com/7af7476ff9eb4a8d9cd9d6486224de76/item/Abzu_PRIMARYPROMO_2580x1450-2580x1450-1df5bc4d1ebbf73ff8e4e1fdb70011d0.jpg",
-      "main-image": "https://cdn1.epicgames.com/7af7476ff9eb4a8d9cd9d6486224de76/item/Abzu_PORTRAITPROMO_1280x1450-1280x1450-f4f02e4e83f889842dc7e47e9e662b58.jpg",
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/ddd864f1589f422aa9df35fe6c40140d.png",
+        "https://cdn.steamgriddb.com/grid/6a9fad28b3295ecf69de70b06db39196.png",
+        "https://cdn.steamgriddb.com/grid/65512d6c64652b399a1e0406ea549ced.png",
+        "https://cdn.steamgriddb.com/grid/f509d7a4db9fd950bd7ee328ffbdf7fe.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/1edf87b5937d12735ac9b62c5a2e0889.png"
+      ],
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\2142AC9A4E6BED4D6C500DB0CC20E019.item",
+      "title": "My Time at Portia"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/3079277c0fb4dfee117271dbcb599b85.png",
+        "https://cdn.steamgriddb.com/grid/7f16486d20834824212195ac69501bb7.png",
+        "https://cdn.steamgriddb.com/grid/114785876eb0846158d3620567ae7398.png",
+        "https://cdn.steamgriddb.com/grid/5e40b071bd53aea08d60c8eb4e029896.png",
+        "https://cdn.steamgriddb.com/grid/377533335b14e2767f4cd93a75573062.png",
+        "https://cdn.steamgriddb.com/grid/cf07d2c050178ace5c71cc0e05891088.png",
+        "https://cdn.steamgriddb.com/grid/8b5b8e27238713eb6d62a3726de3fc53.png",
+        "https://cdn.steamgriddb.com/grid/a90a37898cc5f2718385a2fb981caaff.png",
+        "https://cdn.steamgriddb.com/grid/2ea1b4a79f0e777301a3bf5c363aac70.png",
+        "https://cdn.steamgriddb.com/grid/93f04334d788c3a859389e0f7708f1eb.png",
+        "https://cdn.steamgriddb.com/grid/b6c0406916f681562378d7de331b1982.png",
+        "https://cdn.steamgriddb.com/grid/3f401249bc935853f6e865b419455d15.png",
+        "https://cdn.steamgriddb.com/grid/7cca8eff93fd15cd46cfd1a0487a674b.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/2f014b914ea5e7c04fc6cbde68d02141.png",
+        "https://cdn.steamgriddb.com/grid/23218ef8e2ccb3cbd05c336525f4473d.png",
+        "https://cdn.steamgriddb.com/grid/ccc92ab81c7a7fcd3051fba4da2a22fb.png",
+        "https://cdn.steamgriddb.com/grid/8808eda0dd3dec4e4df50499f2fc75e8.png",
+        "https://cdn.steamgriddb.com/grid/b7bf36954fc38a94de6efcd522fa9d41.png",
+        "https://cdn.steamgriddb.com/grid/bcb41ccdc4363c6848a1d760f26c28a0.png",
+        "https://cdn.steamgriddb.com/grid/a5b93aaec935a59987f8a5f2280e7cd7.png",
+        "https://cdn.steamgriddb.com/grid/0f28b5d49b3020afeecd95b4009adf4c.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_218620.acf",
+      "title": "PAYDAY 2"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/a94595e22a11a0e271943269b1605e8d.png",
+        "https://cdn.steamgriddb.com/grid/e4e4005042cf598805d581754fe9256f.png",
+        "https://cdn.steamgriddb.com/grid/b85b115b1b513335f99703a7e0b01d0a.png",
+        "https://cdn.steamgriddb.com/grid/5fe5b01f95f050c99c170481f6dc88fb.png",
+        "https://cdn.steamgriddb.com/grid/794029ce0ca4a8ed5ab2250eade9b61f.png",
+        "https://cdn.steamgriddb.com/grid/57fc6f4466470dd2e2c7c62deea994c4.png",
+        "https://cdn.steamgriddb.com/grid/2ee40623e0e9548c373f3067c80b911c.png",
+        "https://cdn.steamgriddb.com/grid/c59ae46c679c8e8e8dfdc07336b93d55.png",
+        "https://cdn.steamgriddb.com/grid/d09d96d7a4fb59a13d208cbfbe211bad.png",
+        "https://cdn.steamgriddb.com/grid/a331039a6026f8f215c75ef9c1c381f7.png",
+        "https://cdn.steamgriddb.com/grid/248210163abcc765cc4b37cf971ef792.png",
+        "https://cdn.steamgriddb.com/grid/9f4f5e72c2a00c7bb4e9f03972e91bb0.png",
+        "https://cdn.steamgriddb.com/grid/b93cc12d69ac2fc2053c62609d1cd5a8.png",
+        "https://cdn.steamgriddb.com/grid/ea873c093fe762c17a4fbc91ee4a7f28.png",
+        "https://cdn.steamgriddb.com/grid/a7b344c58979fefcf891b91a8e5abb22.png",
+        "https://cdn.steamgriddb.com/grid/6d0961efa4032f6214e13b10ca8744f7.png",
+        "https://cdn.steamgriddb.com/grid/c181c9a2877323fea8d91c6d24f95eb9.png",
+        "https://cdn.steamgriddb.com/grid/d36117508a7151033ca0322696b574db.png",
+        "https://cdn.steamgriddb.com/grid/ef29d115ef661659677e4dc28fb1a57b.png",
+        "https://cdn.steamgriddb.com/grid/c6d2a8dcf8d14a3a515862e9f55e76ab.png",
+        "https://cdn.steamgriddb.com/grid/a139d32eef9a2afa517db7b94a0bd7dc.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/ea3a48c74a9efb9a08635fe7990347cc.png",
+        "https://cdn.steamgriddb.com/grid/223fa774f48cac82119ba7bbcdd475d2.png",
+        "https://cdn.steamgriddb.com/grid/133b5f08ade8b354bfd42b98c629ef05.png",
+        "https://cdn.steamgriddb.com/grid/fbe9ec51f2a0539841646940865085c8.png",
+        "https://cdn.steamgriddb.com/grid/a1352ed0ab1484e12a4b466e7680e7f8.png"
+      ],
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\64677A004C816BA1FA758ABAEC146882.item",
+      "title": "Rocket League®"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/0e08b65b1d25db04c62f95a4c24424e2.png",
+        "https://cdn.steamgriddb.com/grid/cf5a0f1371aa30a9f080f64baf566edd.png",
+        "https://cdn.steamgriddb.com/grid/047e3d574c19c0f4af43ee397793351a.png",
+        "https://cdn.steamgriddb.com/grid/858a2be748405d1cf063e97622abc791.png",
+        "https://cdn.steamgriddb.com/grid/4af28cf44ca9244d86254a2f99028845.png",
+        "https://cdn.steamgriddb.com/grid/f20c89ce6620e9bef06b8c5e3248457c.png",
+        "https://cdn.steamgriddb.com/grid/89760519c6f067d438f5f0db374a20ab.png",
+        "https://cdn.steamgriddb.com/grid/f52cb0325088a89af9c48d4e89dd2ce2.png",
+        "https://cdn.steamgriddb.com/grid/cceea314a495b68985a367380354f4ac.png",
+        "https://cdn.steamgriddb.com/grid/cad7492939c76269441fe77353480fe1.png",
+        "https://cdn.steamgriddb.com/grid/9d6a548c8f78139a0e9f12f4ef1c5984.png",
+        "https://cdn.steamgriddb.com/grid/784376e390129e4655fcd64d1e1e68c3.png",
+        "https://cdn.steamgriddb.com/grid/6b68749e7c77847afa55dd65082ab603.png",
+        "https://cdn.steamgriddb.com/grid/061a107cb23e524a972dec77e905d9ca.png",
+        "https://cdn.steamgriddb.com/grid/ad009cfd9d10e52d8d59334c4d32c43e.png",
+        "https://cdn.steamgriddb.com/grid/51affce7a93dd33246b69fda3ed90907.png",
+        "https://cdn.steamgriddb.com/grid/a4166368206b4ff56b4e706f927e0ad7.png",
+        "https://cdn.steamgriddb.com/grid/e7b1d12cd1c20febc28843e08405db23.png",
+        "https://cdn.steamgriddb.com/grid/d10b0d808b0cfd5fd53de71824456697.png",
+        "https://cdn.steamgriddb.com/grid/dd23b42b2891e93c25e72f159932a294.png",
+        "https://cdn.steamgriddb.com/grid/4f19d2e558b63233df9468a27512797c.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/38ca89564b2259401518960f7a06f94b.png",
+        "https://cdn.steamgriddb.com/grid/63f6019ca436ea42e23a670f0bca5a8f.png",
+        "https://cdn.steamgriddb.com/grid/4bbc7449ca4ad63ba9e6094180cc65cb.png",
+        "https://cdn.steamgriddb.com/grid/1d05fc163f40fdf19abbfd8710aff787.png",
+        "https://cdn.steamgriddb.com/grid/5c46c77f7e6370b3b95ebfedab5c0176.png",
+        "https://cdn.steamgriddb.com/grid/6a60a60664e78c52bdd5fdca70791b56.png",
+        "https://cdn.steamgriddb.com/grid/f9322b146574d9da9ad32ad879ad373b.png"
+      ],
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\8760F8A044227869D70B088CCFDE6B37.item",
+      "title": "Metro 2033 Redux"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/7cb90dcbd3fc3fb952ca337cbbbb93cb.png",
+        "https://cdn.steamgriddb.com/grid/53a726949568c79fd670cec259d88d73.png",
+        "https://cdn.steamgriddb.com/grid/060bfe98242dd71cdcf79d52501d8544.png",
+        "https://cdn.steamgriddb.com/grid/5929b09ff0e1466b877ef60483627055.png",
+        "https://cdn.steamgriddb.com/grid/665c674f14433953d3af1c88ebba6649.png",
+        "https://cdn.steamgriddb.com/grid/044357042a997da5ca2f9f6e451dc364.png",
+        "https://cdn.steamgriddb.com/grid/f65c867a3d43ba449324297c18e7b28d.png",
+        "https://cdn.steamgriddb.com/grid/fcff8f512ada907170d94bb6cfd42105.png",
+        "https://cdn.steamgriddb.com/grid/402167f0e48b612dbdcf07718c88d826.png",
+        "https://cdn.steamgriddb.com/grid/7cf7b18f1dd384a338ea9e067abe2256.png",
+        "https://cdn.steamgriddb.com/grid/d17c764a4abb08b8f6b4840edf8859d0.png",
+        "https://cdn.steamgriddb.com/grid/e7564f597efed8ce353c26bd1cd75111.png",
+        "https://cdn.steamgriddb.com/grid/c188b8121816c9f91b3f2e4bc31b4d2d.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/eda9c67d6a20358927319cf3510402df.png",
+        "https://cdn.steamgriddb.com/grid/461254593ec0cc1839a590251176c99c.png",
+        "https://cdn.steamgriddb.com/grid/8c2a6cec60863b5ffd776ad9ff57495a.png",
+        "https://cdn.steamgriddb.com/grid/49716284ac827ae89ad9f45585a4d9c5.png",
+        "https://cdn.steamgriddb.com/grid/a2186aa7c086b46ad4e8bf81e2a3a19b.png"
+      ],
       "provider": "epic",
       "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\0ADA17D1476CA19965A977BF9C559425.item",
       "title": "ABZU"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/b937a56ac2082006f7b0a40ab60fe958.png",
+        "https://cdn.steamgriddb.com/grid/1766d6eb69c2370dc5f5718aa846e1f5.png",
+        "https://cdn.steamgriddb.com/grid/6d0e429939616de483e17684eb370850.png",
+        "https://cdn.steamgriddb.com/grid/213d80a57fa55b53024286f296c3941e.png",
+        "https://cdn.steamgriddb.com/grid/be2faf860bf38515fef037744ccb0cb8.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/40f6992c3c5816a1b42d2612fc26b936.png",
+        "https://cdn.steamgriddb.com/grid/46e0eae7d5217c79c3ef6b4c212b8c6f.png",
+        "https://cdn.steamgriddb.com/grid/8612c55d2969d1f587bf1c5aaaa32964.png",
+        "https://cdn.steamgriddb.com/grid/19c449d03c10294f9cf6be324369e85f.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_8870.acf",
+      "title": "BioShock Infinite"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/44d37f9019983d92ead37f855133415b.png",
+        "https://cdn.steamgriddb.com/grid/de7fa0b3a94b60d0008cb5a7939d9ef9.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/ed345cd362ffd0cd0efd90b5c2182243.png",
+        "https://cdn.steamgriddb.com/grid/f7dd39d47c6f28f7877155ccffad0192.png",
+        "https://cdn.steamgriddb.com/grid/b3a5abfdeb740c8bc8df9c6a8386f127.png",
+        "https://cdn.steamgriddb.com/grid/bea6cfd50b4f5e3c735a972cf0eb8450.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_431240.acf",
+      "title": "Golf With Your Friends"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/ea7c72fb7e9e2b6c0fdbc61050023187.png",
+        "https://cdn.steamgriddb.com/grid/ccc5dd5279b84a232c60ea1bb5cf8519.png",
+        "https://cdn.steamgriddb.com/grid/26437b5d299c42fa907481e4cab23b3c.png",
+        "https://cdn.steamgriddb.com/grid/4badaee57fed5610012a296273158f5f.png",
+        "https://cdn.steamgriddb.com/grid/21e7b6bc0412d4aaaf4158fdacb1d1ad.png",
+        "https://cdn.steamgriddb.com/grid/1a6d772f7f624564a845fe55e5a00749.png",
+        "https://cdn.steamgriddb.com/grid/cb5eb6aa7ce2e4c6c2c11f8451c2f288.png",
+        "https://cdn.steamgriddb.com/grid/e732b84af8e033529e17550b87b64c50.png",
+        "https://cdn.steamgriddb.com/grid/00e9f6e53d787c147c5b3c95f803287e.png",
+        "https://cdn.steamgriddb.com/grid/4f7139374a92123421647adf50223e65.png",
+        "https://cdn.steamgriddb.com/grid/b60386ed4b1b79b6d2da53e263503c74.png",
+        "https://cdn.steamgriddb.com/grid/2f575920371731d36b791a6115ae55d8.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/07563a3fe3bbe7e3ba84431ad9d055af.png",
+        "https://cdn.steamgriddb.com/grid/d91d1b4d82419de8a614abce9cc0e6d4.png",
+        "https://cdn.steamgriddb.com/grid/652cf38361a209088302ba2b8b7f51e0.png",
+        "https://cdn.steamgriddb.com/grid/cb8da6767461f2812ae4290eac7cbc42.png",
+        "https://cdn.steamgriddb.com/grid/d917e680c14c6fcd74d08c935436f1b5.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_570.acf",
+      "title": "Dota 2"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/0f1fc687aa65dc3bfee3c053472ce62a.png",
+        "https://cdn.steamgriddb.com/grid/5d156163616be03a50d2a546fa2068b2.png",
+        "https://cdn.steamgriddb.com/grid/e8d22590eca2d4cdca8ab4f23a21bb93.png",
+        "https://cdn.steamgriddb.com/grid/d010086434342f940d5393af91085cc5.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/81fd0241fd6df61d5201d65fd47bb698.png",
+        "https://cdn.steamgriddb.com/grid/e7ba959de901f17d3f72929c945df002.png",
+        "https://cdn.steamgriddb.com/grid/b6c4f99ebc0cec07eac2d98133094f54.png",
+        "https://cdn.steamgriddb.com/grid/827a1fd7a77a96b4c3a3cd36b431f878.png"
+      ],
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\456C34014C9640227AF02A851D9E59F2.item",
+      "title": "Cities: Skylines"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/57cc6cf1085483203f401a3517b3b520.png",
+        "https://cdn.steamgriddb.com/grid/32f6d29a44be8cb180415e7537c4c29b.png",
+        "https://cdn.steamgriddb.com/grid/455d7016a72187cc9afc309ed4a142a5.png",
+        "https://cdn.steamgriddb.com/grid/3c5ee951cbc9a0f9caeabd6f057a21e0.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/0c0f5df32f66e331cf7ffabb10999ebc.png",
+        "https://cdn.steamgriddb.com/grid/2752a6fc31927efaf4ff9f54b1c769cb.png",
+        "https://cdn.steamgriddb.com/grid/5143b1a03753e9634ad9395eb18e0417.png"
+      ],
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\E9F13D7C424D9C4B4182159D9557D77A.item",
+      "title": "Into The Breach"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/2f45fb6d3d46af0423ad2813249ac4a2.png",
+        "https://cdn.steamgriddb.com/grid/b8b733628ed6b5579fa4f65106211fbf.png",
+        "https://cdn.steamgriddb.com/grid/7ae760b696d0c0e744ce8f42a62ccba0.png",
+        "https://cdn.steamgriddb.com/grid/6625f6491ace6f7ff40861a046da6040.png",
+        "https://cdn.steamgriddb.com/grid/b0fd300f50616a2ccd41b068b6133ded.png",
+        "https://cdn.steamgriddb.com/grid/b4b68e804d844783408c64bd8c61b63f.png",
+        "https://cdn.steamgriddb.com/grid/7b59414fe7a802dbd26c4e72ccf279d3.png",
+        "https://cdn.steamgriddb.com/grid/c84f4c33b8ed07f61e6356c3a7418bd3.png",
+        "https://cdn.steamgriddb.com/grid/5ace702e962761c032fd6221fc6445c9.png"
+      ],
+      "wide-image": [],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_783770.acf",
+      "title": "Ironsight"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/f3296629e5e4964de099e204626f32fd.png",
+        "https://cdn.steamgriddb.com/grid/2e5663190c8682fd9d30fd0fb7d42f41.png",
+        "https://cdn.steamgriddb.com/grid/a6fd904dd62bff2cbecc42b14318049a.png",
+        "https://cdn.steamgriddb.com/grid/6777507a918fffd05f37e91c619461c4.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/0ccdcb33f85df88037bd0701b351d5df.png",
+        "https://cdn.steamgriddb.com/grid/694d7355190adf16029c39d3cfd83e1b.png"
+      ],
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\B96EACD3419F8B1357D479A9C7F9263F.item",
+      "title": "Jurassic World Evolution"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/d18c832e8c956b4ef8b92862e6bf470d.png",
+        "https://cdn.steamgriddb.com/grid/cf4929ed2d6ab134a9d0d3d83dfa4006.png",
+        "https://cdn.steamgriddb.com/grid/168359f1c037f24fd6ca3d92d9e79b24.png",
+        "https://cdn.steamgriddb.com/grid/9122e6917c43df2c068332f00db0ff97.png",
+        "https://cdn.steamgriddb.com/grid/8bfcbdd65996c417acdfad207838abb9.png",
+        "https://cdn.steamgriddb.com/grid/925b2ee2f71479f89a23a3378e11f679.png",
+        "https://cdn.steamgriddb.com/grid/848ffe097e37ee8768d50dbc688e0757.png",
+        "https://cdn.steamgriddb.com/grid/23658d66d50b963e5060a1f7b124847c.png",
+        "https://cdn.steamgriddb.com/grid/f8b98fff0e06af830aebadf79232fe74.png",
+        "https://cdn.steamgriddb.com/grid/6a59bb58c6c03d5103d44f3b7e5ebf07.png",
+        "https://cdn.steamgriddb.com/grid/631e7b7a05742837ad8859c34a00e02f.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/5ca177e9af12f0d5d9c4c72668c81b63.png",
+        "https://cdn.steamgriddb.com/grid/35675fd71a153bf3baab29b904e525c8.png",
+        "https://cdn.steamgriddb.com/grid/416e5cf0acb7e553a880b7647903da6e.png",
+        "https://cdn.steamgriddb.com/grid/f316e3fe33f1f754851712c760ab9d48.png",
+        "https://cdn.steamgriddb.com/grid/1f5e7f2748adabf08629a6312ac3bfdd.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_367520.acf",
+      "title": "Hollow Knight"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/cf21c61350fa18333d095687c47c1032.png",
+        "https://cdn.steamgriddb.com/grid/82ab7aa30c681b7318943b9366f1fb94.png",
+        "https://cdn.steamgriddb.com/grid/dfd2bdd932f91ca8ffff35e336073823.png",
+        "https://cdn.steamgriddb.com/grid/f0da81afa3d3f29d4198d5cb191065a8.png",
+        "https://cdn.steamgriddb.com/grid/fd132779c51c1d0c228c6e5cda493563.png",
+        "https://cdn.steamgriddb.com/grid/24aa2bedb4842507cb0364d10db0171e.png",
+        "https://cdn.steamgriddb.com/grid/03d7a479a808f3c2207e08831c076a9f.png",
+        "https://cdn.steamgriddb.com/grid/0d296d3297889105bbfe7ae36c494b7d.png",
+        "https://cdn.steamgriddb.com/grid/aa0952d4ab66756202e6a7dcd7616bda.png",
+        "https://cdn.steamgriddb.com/grid/21be7c03c5483000f0e6c8be9b9f868d.png",
+        "https://cdn.steamgriddb.com/grid/7fd23d812013ce3b530b821d855bccbf.png",
+        "https://cdn.steamgriddb.com/grid/067b1c5e9a6664c38d8dd98848db4686.png",
+        "https://cdn.steamgriddb.com/grid/5dbafbb281f14d2e2608f35e74d97b46.png",
+        "https://cdn.steamgriddb.com/grid/a3c31a078dc3d0dd96c1b91d39e73d38.png",
+        "https://cdn.steamgriddb.com/grid/e3dd0f24ae71a2646850db1513dd36ef.png",
+        "https://cdn.steamgriddb.com/grid/92fb24d9addf85cd522569d24d24b160.png",
+        "https://cdn.steamgriddb.com/grid/972ed36c4497755cf81fb5141f902531.png",
+        "https://cdn.steamgriddb.com/grid/25493e6b43f07f9c96ac0f1d13d5adfd.png",
+        "https://cdn.steamgriddb.com/grid/971dce63ba138345f82457dc0da0df24.png",
+        "https://cdn.steamgriddb.com/grid/aeca6f6db3693e36434b38af6e683b9a.png",
+        "https://cdn.steamgriddb.com/grid/ef46cc3a76521696159b7adb10f359fc.png",
+        "https://cdn.steamgriddb.com/grid/644811627a57e3dfe4a14ee195a02cbf.png",
+        "https://cdn.steamgriddb.com/grid/fc8fe7803e574c0effca19e4381fbfc3.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/75c0aa52af187c4cd20744efafa1c7c7.png",
+        "https://cdn.steamgriddb.com/grid/28046c32e31a34ca288cb9e6e7e84af0.png",
+        "https://cdn.steamgriddb.com/grid/5663d2a1636db83b6d96c952783ab77b.png",
+        "https://cdn.steamgriddb.com/grid/bdbca288fee7f92f2bfa9f7012727740.png",
+        "https://cdn.steamgriddb.com/grid/effc299a1addb07e7089f9b269c31f2f.png",
+        "https://cdn.steamgriddb.com/grid/02522a2b2726fb0a03bb19f2d8d9524d.png",
+        "https://cdn.steamgriddb.com/grid/d7a47699f717f8b2a4e0ffd433843214.png",
+        "https://cdn.steamgriddb.com/grid/be767243ca8f574c740fb4c26cc6dceb.png",
+        "https://cdn.steamgriddb.com/grid/2fe5a27cde066c0b65acb8f2c1717464.png",
+        "https://cdn.steamgriddb.com/grid/24ec8468b67314c2013d215b77034476.png",
+        "https://cdn.steamgriddb.com/grid/382de1927c057dd307f89adbebe2a701.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_945360.acf",
+      "title": "Among Us"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/8b2112b1064c167cfbccbdeb2b5841f2.png",
+        "https://cdn.steamgriddb.com/grid/fbd9a04c9613d31b12e072430c25ae90.png",
+        "https://cdn.steamgriddb.com/grid/21c34fc0440021bd4f980b48daee4659.png",
+        "https://cdn.steamgriddb.com/grid/0f7e4cc2ada40c840ed40083f42374c3.png",
+        "https://cdn.steamgriddb.com/grid/f21aa9a67ef524410f718cff368a6ff2.png",
+        "https://cdn.steamgriddb.com/grid/b201429947e01f6e90d09433d997feb4.png",
+        "https://cdn.steamgriddb.com/grid/1acaeed519338598153e4c4939f71c3e.png",
+        "https://cdn.steamgriddb.com/grid/72166f729226cebe52ae986c2699c3a1.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/26c236095f0e9fc4a4e0af7edf6fa9f0.png",
+        "https://cdn.steamgriddb.com/grid/1975727c448e45ab391dcef95c06b788.png",
+        "https://cdn.steamgriddb.com/grid/4a59a8ea539613e156495fe26f8e64cd.png",
+        "https://cdn.steamgriddb.com/grid/dac0df83b3e7d04bf4d3f51de0f83ccd.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_606150.acf",
+      "title": "Moonlighter"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/49ce4fe6942d35a74640cf784b94e5d2.png",
+        "https://cdn.steamgriddb.com/grid/bdb164bd0fcaa438c938386a2cba309d.png",
+        "https://cdn.steamgriddb.com/grid/1fe44f35e90dc6c80dbd840c81b736f5.png",
+        "https://cdn.steamgriddb.com/grid/6cd29f23de85b1309128ff736c7efbf6.png",
+        "https://cdn.steamgriddb.com/grid/2448225d3dfa0dc52632c746aa76b66e.png",
+        "https://cdn.steamgriddb.com/grid/f4c70025bef2c56f50285ffd6c3e00f7.png",
+        "https://cdn.steamgriddb.com/grid/84479f976fbdcf3884fa80a80a3f2e3a.png",
+        "https://cdn.steamgriddb.com/grid/26c2cea56d0bc574a2215095b727b56e.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/29291c701f147dffb2ce9b6b7e7d6a11.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_356650.acf",
+      "title": "Death's Gambit"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/6df0f11ac980d2c59e5b4dab6a8e7611.png",
+        "https://cdn.steamgriddb.com/grid/6eaff1573b1ef225f20ad14b87a30a8f.png",
+        "https://cdn.steamgriddb.com/grid/c551b3e48358cd66c83315c5a357cc69.png",
+        "https://cdn.steamgriddb.com/grid/0c1ac221790f9286108317563d5a6c1a.png",
+        "https://cdn.steamgriddb.com/grid/9e72574baf3124f13a94a45c6d25d1c8.png",
+        "https://cdn.steamgriddb.com/grid/e4a018614d065bf1abdd0b262861ba3e.png",
+        "https://cdn.steamgriddb.com/grid/1d8db5bc9930400d8959c99c440fc254.png",
+        "https://cdn.steamgriddb.com/grid/f61e0c00d520ca295c2bb013702b1893.png",
+        "https://cdn.steamgriddb.com/grid/27af3bde50054c550055a9ac677112bf.png",
+        "https://cdn.steamgriddb.com/grid/165fcc104a2bcd0bd9e1acb7144634a8.png",
+        "https://cdn.steamgriddb.com/grid/7e4d5db053826a6096a227979ba78f65.png",
+        "https://cdn.steamgriddb.com/grid/b71ecc3677e6825a62dbda1fe8ca0ca5.png",
+        "https://cdn.steamgriddb.com/grid/b43d1b7bc56415513f6bd4feced8d9c4.png",
+        "https://cdn.steamgriddb.com/grid/0ef007c827d338fcef4c44b1dee6bb76.png",
+        "https://cdn.steamgriddb.com/grid/a4fe3e4de8ad631acb028b271b1fc271.png",
+        "https://cdn.steamgriddb.com/grid/fcf681c1a2169a0ce894ce6a47c47d6a.png",
+        "https://cdn.steamgriddb.com/grid/50736446bdbc147dafe4f7a190651642.png",
+        "https://cdn.steamgriddb.com/grid/40106cc491e824707b985b3bf6767652.png",
+        "https://cdn.steamgriddb.com/grid/fef4f0c339f100fad1eafe9b89e04b28.png",
+        "https://cdn.steamgriddb.com/grid/02461c5130daee73a8c73a51060e2adc.png",
+        "https://cdn.steamgriddb.com/grid/8ce2eb65de03109e27fc0d7973ab2797.png",
+        "https://cdn.steamgriddb.com/grid/c46a056b63fc8f2dc366c1e343c67d88.png",
+        "https://cdn.steamgriddb.com/grid/1cb74d812726cf83fb69ae13520e80d2.png",
+        "https://cdn.steamgriddb.com/grid/81f00b09baf20f2e5d82e02bb5fdc60f.png",
+        "https://cdn.steamgriddb.com/grid/3f99f75070c46d814282558b9c7d7bbd.png",
+        "https://cdn.steamgriddb.com/grid/4a4b7902f9852fbeeb368ee7320171b2.png",
+        "https://cdn.steamgriddb.com/grid/1087e958e1f1eb9ef2cd21cb270bb30b.png",
+        "https://cdn.steamgriddb.com/grid/7e2dfcc2adce28faabedd07b3b732f12.jpg",
+        "https://cdn.steamgriddb.com/grid/50753a9a0f0cae0852a2c25d962960e4.png",
+        "https://cdn.steamgriddb.com/grid/02f931a5fd1b2102d1a8d35e98f15efc.png",
+        "https://cdn.steamgriddb.com/grid/6269b2d5cbb8ec66cecaaff7d81fad89.png",
+        "https://cdn.steamgriddb.com/grid/76e0ebee773e6185ffcb331500a21e64.png",
+        "https://cdn.steamgriddb.com/grid/0bbbb57049cfe4c4dec3c4e195059b30.png",
+        "https://cdn.steamgriddb.com/grid/223eee67785b9b081f7cfc42d513143f.png",
+        "https://cdn.steamgriddb.com/grid/205225be28612c89833b9716728fefb6.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/f1e2b2c9255d552500a833ac828cd635.png",
+        "https://cdn.steamgriddb.com/grid/db68512896941514a089c37392f0683b.png",
+        "https://cdn.steamgriddb.com/grid/8b4066554730ddfaa0266346bdc1b202.png",
+        "https://cdn.steamgriddb.com/grid/c7c3e78e3c9d26cc1158a8735d548eaa.png",
+        "https://cdn.steamgriddb.com/grid/c13876496247493d0c0a524b0678d683.png",
+        "https://cdn.steamgriddb.com/grid/2e8829c43bad5facecd0a4039c6494e0.png",
+        "https://cdn.steamgriddb.com/grid/75184ae2b04ef83f12bc2173bb8962af.png",
+        "https://cdn.steamgriddb.com/grid/d2355b49a705dfe566550879b6a9754e.png",
+        "https://cdn.steamgriddb.com/grid/67f3a8a7347963d3c9d0622417ad0885.png",
+        "https://cdn.steamgriddb.com/grid/bfbb56bee68d99affaa64f189045d5f2.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_359550.acf",
+      "title": "Tom Clancy's Rainbow Six Siege"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/2c305710f3d4530c4cb832629b68a620.png",
+        "https://cdn.steamgriddb.com/grid/4c8cb9b614bd99032d01aa6d93f174a0.png",
+        "https://cdn.steamgriddb.com/grid/028076e5c6b2065d3b5a949eeff56138.png",
+        "https://cdn.steamgriddb.com/grid/632725352efe55675c8084885bdc2c88.png",
+        "https://cdn.steamgriddb.com/grid/996537a05d20697926cfec0512f27617.png",
+        "https://cdn.steamgriddb.com/grid/3d639265ea3bf56cd8e658447e8e6f10.png",
+        "https://cdn.steamgriddb.com/grid/938f7afcfd8745c92c3010b5bf4ba75d.png",
+        "https://cdn.steamgriddb.com/grid/7ce9d67d85410c4531d26ee12e9640d2.png",
+        "https://cdn.steamgriddb.com/grid/47dbf8c8d861952168d96d9102343baf.png",
+        "https://cdn.steamgriddb.com/grid/cfdda37ca156ba09477b33aa2e008dda.png",
+        "https://cdn.steamgriddb.com/grid/27ba0e5a34ecd06b86478a9b8942dd2b.png",
+        "https://cdn.steamgriddb.com/grid/190c0a29f980552a4fcf0cfe3414b589.png",
+        "https://cdn.steamgriddb.com/grid/be925cdb6f03c1b58212df4c2831aedd.png",
+        "https://cdn.steamgriddb.com/grid/83551df7a2c9de05f62f1d33964baaa7.png",
+        "https://cdn.steamgriddb.com/grid/4f0707d3501c6ff1532c927f43685768.png",
+        "https://cdn.steamgriddb.com/grid/e6a6267b33d8c568fb92aacd5edbeda1.png",
+        "https://cdn.steamgriddb.com/grid/5a9c09d69b8f721da706fed68555ac5e.png",
+        "https://cdn.steamgriddb.com/grid/e780a5d10204ac214c7a8b63c7e982e8.png",
+        "https://cdn.steamgriddb.com/grid/15991eef901eb370bbd070a06bc25387.png",
+        "https://cdn.steamgriddb.com/grid/9ba86874e2da983005ed7beaab5de7c9.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/9e925259d9d363b290c7e47209cd2ad7.png",
+        "https://cdn.steamgriddb.com/grid/440924c5948e05070663f88e69e8242b.png",
+        "https://cdn.steamgriddb.com/grid/695494b434b3711f396bc5f0d3c0a54e.png",
+        "https://cdn.steamgriddb.com/grid/a19acd7d2689207f9047f8cb01357370.png",
+        "https://cdn.steamgriddb.com/grid/f0e6d819eb9557e2fc97ac251d6bcd2a.png",
+        "https://cdn.steamgriddb.com/grid/16336869d1df46f2d92671627561b2d2.png",
+        "https://cdn.steamgriddb.com/grid/8a010f0312373c02e0d15cdfc56ea416.png",
+        "https://cdn.steamgriddb.com/grid/c9ee6a825655d889ae6a84bde2802bc2.png",
+        "https://cdn.steamgriddb.com/grid/6d2bb9eb2c15945e521e74f65e846d1d.png",
+        "https://cdn.steamgriddb.com/grid/3ad980cc442688dcd2cb1052725e2683.png",
+        "https://cdn.steamgriddb.com/grid/26079c271736e881b2c523644f8de690.png",
+        "https://cdn.steamgriddb.com/grid/88a839f2f6f1427879fc33ee4acf4f66.png",
+        "https://cdn.steamgriddb.com/grid/e140dbab44e01e699491a59c9978b924.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_8930.acf",
+      "title": "Sid Meier's Civilization V"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/a51d33efc990731cb31eb6e9bcf79670.png",
+        "https://cdn.steamgriddb.com/grid/f1589432f623a88911e2abeb5fd6d452.png",
+        "https://cdn.steamgriddb.com/grid/b014f6d2f2ca7345e5a45dece76022b3.png",
+        "https://cdn.steamgriddb.com/grid/b9e0d0476234d145f502335f7b4d92c4.png",
+        "https://cdn.steamgriddb.com/grid/1b43113e405a00ad288031d84debb77f.png",
+        "https://cdn.steamgriddb.com/grid/e18f3b583c92e1655356ebb3284387e4.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/bf2c43a821883512a0e6558da13d7328.png",
+        "https://cdn.steamgriddb.com/grid/341b5fdeac5832d96cc659b4a76ce3cd.png",
+        "https://cdn.steamgriddb.com/grid/747c1bcceb6109a4ef936bc70cfe67de.png",
+        "https://cdn.steamgriddb.com/grid/67614aacd469da7f9d611c9be60462f1.png",
+        "https://cdn.steamgriddb.com/grid/872e74ed09be5d2537336920d33c85e6.png",
+        "https://cdn.steamgriddb.com/grid/92a7881427b4548fca6a406e4a67b3c0.png",
+        "https://cdn.steamgriddb.com/grid/177b118df5660fca13bd6dcee756f398.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_290340.acf",
+      "title": "Armello"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/bbd903d446cc2f03e9061a679a550318.png",
+        "https://cdn.steamgriddb.com/grid/c0026bce00b0c5011bb0923a8a391979.png",
+        "https://cdn.steamgriddb.com/grid/51bc6b9193a6829af6044cdfa8c1a69d.png",
+        "https://cdn.steamgriddb.com/grid/0ff04ba8416777d577dbd2719c5befa0.png",
+        "https://cdn.steamgriddb.com/grid/f1740a30d58130f2cb142c85ba008a50.png",
+        "https://cdn.steamgriddb.com/grid/94660adf7659580d61a5a858295fb921.png",
+        "https://cdn.steamgriddb.com/grid/0a5f5a8a1259b1c53f9acee240e343ad.png",
+        "https://cdn.steamgriddb.com/grid/ac254390aca242c7206947f98080271b.png",
+        "https://cdn.steamgriddb.com/grid/70bbc051341bb1f5c1fdb481a767c1cc.png",
+        "https://cdn.steamgriddb.com/grid/9b92a91fac4302e8de6f2fe165545d20.png",
+        "https://cdn.steamgriddb.com/grid/930fa8d5ae295951d90aaa1cc177fe01.png",
+        "https://cdn.steamgriddb.com/grid/7074c377af1afe354a2a7d60220f8c5f.png",
+        "https://cdn.steamgriddb.com/grid/bfaf5510bdc90b7a6901ce646d0bea3a.png",
+        "https://cdn.steamgriddb.com/grid/d5e20e563562682214b13ec35643f2fd.png",
+        "https://cdn.steamgriddb.com/grid/3813a7e99f42a841a20e7f49859f1142.png",
+        "https://cdn.steamgriddb.com/grid/4f70afdc96d8fdd57e8f69f0759b01e7.png",
+        "https://cdn.steamgriddb.com/grid/2a98d370f94a08b73009be6b4e3921e3.png",
+        "https://cdn.steamgriddb.com/grid/127ba3f4091df4a210b45e5e781b3b82.png",
+        "https://cdn.steamgriddb.com/grid/e5d92a2e54823d1c5a10f082d62a5451.png",
+        "https://cdn.steamgriddb.com/grid/f480a0c83e4d41b1bf4530ab0f10da1d.png",
+        "https://cdn.steamgriddb.com/grid/a8db05365df55c54b909f990fa86e118.png",
+        "https://cdn.steamgriddb.com/grid/4380563bacf1b422b9dbfc3e74772a03.png",
+        "https://cdn.steamgriddb.com/grid/633b67b962433fc787e9ed2039392aba.png",
+        "https://cdn.steamgriddb.com/grid/4d8988ad11b4ae017761b07516a0f03d.png",
+        "https://cdn.steamgriddb.com/grid/b2ba5b3b222e9a0867bc64a55175de5d.png",
+        "https://cdn.steamgriddb.com/grid/f8e310a5f495f67a2a7c1d283a9e0b7b.png",
+        "https://cdn.steamgriddb.com/grid/2cc554edcbef26dedaf4004cfaf4f3d0.png",
+        "https://cdn.steamgriddb.com/grid/d053411ffb79119eb911bd8687555dd3.png",
+        "https://cdn.steamgriddb.com/grid/59aff3a8835bab1c3c1725498ef4631a.png",
+        "https://cdn.steamgriddb.com/grid/bb77f7c5c91fb6c12628f925960ac540.png",
+        "https://cdn.steamgriddb.com/grid/1833d0bdce8865a66ea0cab71aca007f.png",
+        "https://cdn.steamgriddb.com/grid/5096ec0d9f539f466e83224eca39f65a.png",
+        "https://cdn.steamgriddb.com/grid/b9502764d2a757587e41fcd18c84c78c.png",
+        "https://cdn.steamgriddb.com/grid/3dbbde785add23e45b2d052ae6dddc1f.png",
+        "https://cdn.steamgriddb.com/grid/d1a598d77495fb6501ae53ba01c49637.png",
+        "https://cdn.steamgriddb.com/grid/2fefdc64cea4bfeacce657d0465e6eb5.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/8e6386593ca0e8602ff05a069fa23777.png",
+        "https://cdn.steamgriddb.com/grid/f2e43fa3400d826df4195a9ac70dca62.png",
+        "https://cdn.steamgriddb.com/grid/cb12d7f933e7d102c52231bf62b8a678.png",
+        "https://cdn.steamgriddb.com/grid/b276d5b499aa50a632efddf40bbdd75b.png",
+        "https://cdn.steamgriddb.com/grid/7e04e496f1cf3896708f48127a7b65de.png",
+        "https://cdn.steamgriddb.com/grid/090a5ad8693b1fbab7f9500fed7528b0.png",
+        "https://cdn.steamgriddb.com/grid/2e0aca891f2a8aedf265edf533a6d9a8.png",
+        "https://cdn.steamgriddb.com/grid/10ce671d55af2d7a7be6fbc8d028cdf1.png",
+        "https://cdn.steamgriddb.com/grid/6ebc9d70f4a09bd4c90d6c37555f7a3c.png",
+        "https://cdn.steamgriddb.com/grid/02f657d55eaf1c4840ce8d66fcdaf90c.png",
+        "https://cdn.steamgriddb.com/grid/3ea0dca52330dfaa77e8a459cadd584c.png",
+        "https://cdn.steamgriddb.com/grid/136097e96ea970878c91803a5394ab87.png",
+        "https://cdn.steamgriddb.com/grid/7f9e185cc5d8808637db179eb1e81c70.png",
+        "https://cdn.steamgriddb.com/grid/36ac8e558ac7690b6f44e2cb5ef93322.png",
+        "https://cdn.steamgriddb.com/grid/ccdc4cb9aad8f7e879fd25464acfd917.png",
+        "https://cdn.steamgriddb.com/grid/a66b4d41a1b21574947d0d6c00e1de7a.png",
+        "https://cdn.steamgriddb.com/grid/3341f6f048384ec73a7ba2e77d2db48b.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_49520.acf",
+      "title": "Borderlands 2"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/9cc1a916dd361d42abfa2b5e713d4ebe.png",
+        "https://cdn.steamgriddb.com/grid/d6116f99057aaae4db4a57257895b8e5.png",
+        "https://cdn.steamgriddb.com/grid/79cc3da18f810f1d346720cf319a596e.png",
+        "https://cdn.steamgriddb.com/grid/7e2f21ec8c69203309c420fdf06d4012.png",
+        "https://cdn.steamgriddb.com/grid/be7350fea58b4fe58858c50a245f5f21.png",
+        "https://cdn.steamgriddb.com/grid/97b617208bd1cd250cf5d578030ec2f6.png",
+        "https://cdn.steamgriddb.com/grid/c70f6b25d708ccc79f5a0a0adbd6ad6e.png",
+        "https://cdn.steamgriddb.com/grid/db3cdb0f881b61594f1ea8e35f109b52.png",
+        "https://cdn.steamgriddb.com/grid/f86125099fdc7ba724a4f1b94d31ce81.png",
+        "https://cdn.steamgriddb.com/grid/c231e3523275f3e708be0a95f0c238b4.png",
+        "https://cdn.steamgriddb.com/grid/e86a8605bdb65aea12a47524b4e3eb51.png",
+        "https://cdn.steamgriddb.com/grid/a6ed281f7e9457cae891effff58bac30.png",
+        "https://cdn.steamgriddb.com/grid/2a626b7baf5bf9b0b52eacc8c25d3015.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/f60ac2bfedf3eb5209e7f54adc9556a4.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_745920.acf",
+      "title": "Temtem"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/9117b58934e7639cd9a09be9db43fb7d.png",
+        "https://cdn.steamgriddb.com/grid/df182342f761a3795c0c8cfad378c7a4.png",
+        "https://cdn.steamgriddb.com/grid/fef34c15c1dd57c9106153d6d084227d.png",
+        "https://cdn.steamgriddb.com/grid/dd3e9cad5b48d89fd9629d889bc7d683.png",
+        "https://cdn.steamgriddb.com/grid/5e0ac9dc14e0eed1cceccebb53dd4eaf.png",
+        "https://cdn.steamgriddb.com/grid/45b0d8cd1073de45513c358530c92cd7.png",
+        "https://cdn.steamgriddb.com/grid/d9b344c68f983c6f45f6898c8b9a2ab8.png",
+        "https://cdn.steamgriddb.com/grid/19d5254bda3efc525d2fbc731215b282.png",
+        "https://cdn.steamgriddb.com/grid/08bcb217951561d460d1651af92dd7fe.png",
+        "https://cdn.steamgriddb.com/grid/f6dad23bede4f26df5426f17b206c926.png",
+        "https://cdn.steamgriddb.com/grid/efcf58584432bada34e7ab31bbe04a82.png",
+        "https://cdn.steamgriddb.com/grid/c36998b36e7686b827d5c23579a76e5e.png",
+        "https://cdn.steamgriddb.com/grid/0b3be39b79a603bb88dbcb4b086cc1b8.png",
+        "https://cdn.steamgriddb.com/grid/c482fa6fb4038b1b55286a21f8173060.png",
+        "https://cdn.steamgriddb.com/grid/13724617b02b063ebd4ae1a08bb34b9f.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/f7fadee7981a4eb09971187ead481451.png",
+        "https://cdn.steamgriddb.com/grid/ef9c4dc534b21b3f9c62b1857f4a0e81.png",
+        "https://cdn.steamgriddb.com/grid/b4315f87bc8e2180eb73465d8f5a5cd5.png",
+        "https://cdn.steamgriddb.com/grid/dcba1d5501221f3f36e1c123974f7ca7.png",
+        "https://cdn.steamgriddb.com/grid/7cd7119524119aa83bb5ad0ba3df8552.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_386360.acf",
+      "title": "SMITE"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/bf5c13b2138225938ec63f7ce0694431.png",
+        "https://cdn.steamgriddb.com/grid/ed1f71d5ed1a92b0215795f4befa18bd.png",
+        "https://cdn.steamgriddb.com/grid/cb4e168db1faa34bd0893e4889a2f4f1.png",
+        "https://cdn.steamgriddb.com/grid/cc0d14ab6a66643d6a17e95bf78e49a6.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/6a12f449790ed7be96d77aa4c7d9c1c1.png",
+        "https://cdn.steamgriddb.com/grid/a6a767bbb2e3513233f942e0ff24272c.png",
+        "https://cdn.steamgriddb.com/grid/5b4130c9e891d39891289001cc97d86b.png",
+        "https://cdn.steamgriddb.com/grid/2dea61eed4bceec564a00115c4d21334.png"
+      ],
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\06C1EC0D435F52AC9140339C64963CF6.item",
+      "title": "Darkest Dungeon®"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/58388f1a9b479863cb000d317ec750ea.png",
+        "https://cdn.steamgriddb.com/grid/e195b33d677b9903e89282fb4df07836.png",
+        "https://cdn.steamgriddb.com/grid/4dfe8a5520046ae1906ecca3a7a41dc8.png",
+        "https://cdn.steamgriddb.com/grid/084aa3ffb961de458e44a49121782f49.png",
+        "https://cdn.steamgriddb.com/grid/6921fc76f00a81aaaa20aaae82516916.png",
+        "https://cdn.steamgriddb.com/grid/bc54cb4a4a51322747ecd21d29947b1a.png",
+        "https://cdn.steamgriddb.com/grid/742107eae660cba08fc8a4c04b854254.png",
+        "https://cdn.steamgriddb.com/grid/cb830583fe42f9040d1a309364b56879.png",
+        "https://cdn.steamgriddb.com/grid/59ca489ceeb5610288f9da184e668243.png",
+        "https://cdn.steamgriddb.com/grid/aaf4b029f0471bef043a16b06c2016d5.png",
+        "https://cdn.steamgriddb.com/grid/99b17e779260fed26e84cb6a86c7208e.png",
+        "https://cdn.steamgriddb.com/grid/3c0b2d8dec25456ee917b8b3f29592cd.png",
+        "https://cdn.steamgriddb.com/grid/38a9dbfce0500ac32fa4092cf609e572.png",
+        "https://cdn.steamgriddb.com/grid/e468ce3373e0f3357a2a032e536d53c2.png",
+        "https://cdn.steamgriddb.com/grid/9507a1bdc8d536d78f1984de68205aed.png",
+        "https://cdn.steamgriddb.com/grid/8151554c7257b706ba775383d208f4cc.png",
+        "https://cdn.steamgriddb.com/grid/0365a5b6ac0686c6169d24992c2c0064.png",
+        "https://cdn.steamgriddb.com/grid/05761d7cd3d824ac6da56e12eb7c8c6f.png",
+        "https://cdn.steamgriddb.com/grid/50b7693ef3ab0569617f33770ade8ced.png",
+        "https://cdn.steamgriddb.com/grid/0c512406f4610b8fb16b99efed50ae43.png",
+        "https://cdn.steamgriddb.com/grid/2475de1ab74765574c971761ea8c1edb.png",
+        "https://cdn.steamgriddb.com/grid/855bacff571310247fd43540982f0274.png",
+        "https://cdn.steamgriddb.com/grid/32899caf42c72b8288fbdbb5434a494c.png",
+        "https://cdn.steamgriddb.com/grid/b9c849ba1538b82e3c2e72ebfc92f14e.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/1a353732d2afaca3968f5aa91dcbd2ee.png",
+        "https://cdn.steamgriddb.com/grid/0729480724847e6fde22501c8360f5af.png",
+        "https://cdn.steamgriddb.com/grid/787287629d12a1ec5c5f91f89c3c7c71.png",
+        "https://cdn.steamgriddb.com/grid/776820dc79067591e4228d48f694aa3f.png",
+        "https://cdn.steamgriddb.com/grid/928d86171c65a039d2eb1789fd1bf49f.png",
+        "https://cdn.steamgriddb.com/grid/6c04175de4297fbf49921a487dc1a2f6.png",
+        "https://cdn.steamgriddb.com/grid/36bf0c2be198fce4b4ce1bdc6c9dbd56.png",
+        "https://cdn.steamgriddb.com/grid/c8443b6213aa517f2d701ebf845fdae4.png",
+        "https://cdn.steamgriddb.com/grid/e3030406173074724559c34666f5830f.png",
+        "https://cdn.steamgriddb.com/grid/d9e6b46563c1a62a6d0979d929fe2e6b.png",
+        "https://cdn.steamgriddb.com/grid/d3ac43d9713bf1e9d37a453da0385b3b.png",
+        "https://cdn.steamgriddb.com/grid/5463b514e21fbd3fec3772fba142a46e.png",
+        "https://cdn.steamgriddb.com/grid/b025330edaf516645245e837c04682f8.png",
+        "https://cdn.steamgriddb.com/grid/effee1e779858321158963645b481b98.png",
+        "https://cdn.steamgriddb.com/grid/efc7802abcfcabf60cf5abe86e9b0465.png",
+        "https://cdn.steamgriddb.com/grid/e951ccd95572a67138f4572c1c7d7ee8.png",
+        "https://cdn.steamgriddb.com/grid/744c7571cf7ab98667accb835b549b85.png",
+        "https://cdn.steamgriddb.com/grid/1f02ab6d5abf20738d8789ca8741f185.png",
+        "https://cdn.steamgriddb.com/grid/ea991922e5d2d407b59be72152863092.png",
+        "https://cdn.steamgriddb.com/grid/23755432da68528f115c9633c0d7834f.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_812140.acf",
+      "title": "Assassin's Creed Odyssey"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/3cf3794a55e9b9732d01bf82af5bb95f.png",
+        "https://cdn.steamgriddb.com/grid/23a77e932d401b9f28c0de872ef56a83.png",
+        "https://cdn.steamgriddb.com/grid/e26c3e20ad7c46dbb43e2b08fdeb48bd.png",
+        "https://cdn.steamgriddb.com/grid/225af6643e5c5d4d04570e69b15091fa.png",
+        "https://cdn.steamgriddb.com/grid/c1f4743c95657f785f7874f4b39c979f.png",
+        "https://cdn.steamgriddb.com/grid/3405f1800a6bc544666735613092f7aa.png",
+        "https://cdn.steamgriddb.com/grid/5e0492bd7b072c58f867a8981cd03380.png",
+        "https://cdn.steamgriddb.com/grid/91316e189f8f6ffd6c8e2152355c6f72.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/0521122bba3fdb214022c1533f268b4c.png",
+        "https://cdn.steamgriddb.com/grid/b3116cab8fe07b8045c68492c5f43682.png",
+        "https://cdn.steamgriddb.com/grid/6e908d2f26ba44f68ca184d2696ec807.png",
+        "https://cdn.steamgriddb.com/grid/fb08f0198304439175f357d1d543e6e3.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_414340.acf",
+      "title": "Hellblade: Senua's Sacrifice"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/11cbdc90d75c2f6c742d9e9d65ed6aa8.png",
+        "https://cdn.steamgriddb.com/grid/facd7513981a0c7e11a238db829f5f45.png",
+        "https://cdn.steamgriddb.com/grid/525a6ee0fe8e9d3f8b727a74041f213a.png",
+        "https://cdn.steamgriddb.com/grid/6cacc8bf88e3da808e492a19cbcb8591.png",
+        "https://cdn.steamgriddb.com/grid/3affcbb957032e3cd1c0c3f8526e5de8.png",
+        "https://cdn.steamgriddb.com/grid/eb98a974c6bc005e6d8217434d983c99.png",
+        "https://cdn.steamgriddb.com/grid/f410602c9c86767a50e4aa907b565e45.png",
+        "https://cdn.steamgriddb.com/grid/3dcdef04904bbd3c77a93e78274e7238.png",
+        "https://cdn.steamgriddb.com/grid/b39ec727955cf8714738dde8a4707e9b.png",
+        "https://cdn.steamgriddb.com/grid/b7881acca1ba3483c584243a36979233.png",
+        "https://cdn.steamgriddb.com/grid/fc41493eef2e2cf61a6110bfae3edba1.png",
+        "https://cdn.steamgriddb.com/grid/8359bc4376e89b729d92ddd9b8a53c46.png",
+        "https://cdn.steamgriddb.com/grid/eea4b36884e7e6ef7ecfc146a7d8f827.png",
+        "https://cdn.steamgriddb.com/grid/ab6094d93c838dadc7034a82dbbef4c3.png",
+        "https://cdn.steamgriddb.com/grid/978f9d25644371a4c4b8df8c994cd880.png",
+        "https://cdn.steamgriddb.com/grid/c6dd2443a09c8fc27229268a32efb706.png",
+        "https://cdn.steamgriddb.com/grid/aa9438b02f494bf6bd595b63c3fe6535.png",
+        "https://cdn.steamgriddb.com/grid/3a420a8893e33a9e976d9fd614f63e04.png",
+        "https://cdn.steamgriddb.com/grid/6d9845f8d58e950fe40b20c4fae2b252.png",
+        "https://cdn.steamgriddb.com/grid/8e26901ba1a5e2b89f059235803a5b70.png",
+        "https://cdn.steamgriddb.com/grid/43a69159fad5d9374b34c31b6784581b.png",
+        "https://cdn.steamgriddb.com/grid/1ed85a76f2ca9c257abfd26f584b7d74.png",
+        "https://cdn.steamgriddb.com/grid/179e48cecceef8d753185783917e5bd8.png",
+        "https://cdn.steamgriddb.com/grid/5e4357ee1d8a7eeb692c97b42b5ca609.png",
+        "https://cdn.steamgriddb.com/grid/bfaeb0ee5a41baa95b88e78c0a03bcb6.png",
+        "https://cdn.steamgriddb.com/grid/a01d67c7ebc300db100e5de1c3296ef8.png",
+        "https://cdn.steamgriddb.com/grid/59fae23e31dc90b03927c608acc7337a.png",
+        "https://cdn.steamgriddb.com/grid/f200537982c3729a0eb7af742d370826.png",
+        "https://cdn.steamgriddb.com/grid/bc7504ede7d0677d71a9137c92c41543.png",
+        "https://cdn.steamgriddb.com/grid/8b3432e34d73182c191e65586b395c06.png",
+        "https://cdn.steamgriddb.com/grid/2c3dd8064e75cdf11bc22399ec427e08.png",
+        "https://cdn.steamgriddb.com/grid/de7075bb25ceb5979b1fe0bdc7883acf.png",
+        "https://cdn.steamgriddb.com/grid/bc7e6fcd318cab729a2c24761403d5a6.png",
+        "https://cdn.steamgriddb.com/grid/d13b0d43c09be3c899adf67adf4d43e8.png",
+        "https://cdn.steamgriddb.com/grid/03db079c7b6d1c860b5e5ea965c29f4b.png",
+        "https://cdn.steamgriddb.com/grid/84731f45c868caa46279fc0fbd5f03ba.png",
+        "https://cdn.steamgriddb.com/grid/2477a519dc1bdb4f95d644f8b9e9207a.png",
+        "https://cdn.steamgriddb.com/grid/4583bcf526c7ab6dfeae158522fa9db1.png",
+        "https://cdn.steamgriddb.com/grid/12a275206395ca08bbef724366ce29e0.png",
+        "https://cdn.steamgriddb.com/grid/4838f567d132429effc494fcda4ad56d.png",
+        "https://cdn.steamgriddb.com/grid/959baebe3c2671b044052a122f84bffe.png",
+        "https://cdn.steamgriddb.com/grid/64c1ebc6e7c210e03bb87848bbdd9100.png",
+        "https://cdn.steamgriddb.com/grid/d0c72bcb851bc17ca4fe01bf2e05c235.png",
+        "https://cdn.steamgriddb.com/grid/46ca81a7c598a5230b6e7d0de3e83d76.png",
+        "https://cdn.steamgriddb.com/grid/f8d37a11a3092bd6877ea7ced495987d.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/c1aeb6517a1c7f33514f7ff69047e74e.png",
+        "https://cdn.steamgriddb.com/grid/787b6e9d499910427973b8902f87e900.png",
+        "https://cdn.steamgriddb.com/grid/b205a983b6b4a4ae071ee47c00dbf5b9.png",
+        "https://cdn.steamgriddb.com/grid/cdf4a5ac1a46bd7caedc2a52e2e8a3aa.png",
+        "https://cdn.steamgriddb.com/grid/93935dd523dab5829eb26461055fbeeb.png",
+        "https://cdn.steamgriddb.com/grid/cb0fb5b71dd8266417731afb0e7a0864.png",
+        "https://cdn.steamgriddb.com/grid/16c07e910397fb3910aad491c8c25e55.png",
+        "https://cdn.steamgriddb.com/grid/87b66fcf2a06b8d5349051f30e0cc345.png",
+        "https://cdn.steamgriddb.com/grid/d068c993124185d91f92a2ebf384d1b6.png",
+        "https://cdn.steamgriddb.com/grid/17b5d90cfad27548fd93d364005397c8.png",
+        "https://cdn.steamgriddb.com/grid/d7f4bb859d16bc88b0582baedb6129e7.png",
+        "https://cdn.steamgriddb.com/grid/37e3525cdfc7ea63b08d5e23138b599e.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_311210.acf",
+      "title": "Call of Duty: Black Ops III"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/91c721cc63b468c653f863a2f83c8b00.png",
+        "https://cdn.steamgriddb.com/grid/f03c1b76769ba6af93c93e1247defc35.png",
+        "https://cdn.steamgriddb.com/grid/85ecc824097a247c49dfdf7cffe98500.png",
+        "https://cdn.steamgriddb.com/grid/3895931f624854147664776af718d360.png",
+        "https://cdn.steamgriddb.com/grid/0437a071782da8be03440ded88cdd244.png",
+        "https://cdn.steamgriddb.com/grid/457c7caf38b56ec93afbf6ad22877478.png",
+        "https://cdn.steamgriddb.com/grid/91a391a9bfc39465c553f1c75d659e79.png",
+        "https://cdn.steamgriddb.com/grid/57ade73fc8c328402e4905ffe30ffc9f.png",
+        "https://cdn.steamgriddb.com/grid/f16e92c1f4d059673b429000700a4fe0.png",
+        "https://cdn.steamgriddb.com/grid/d4aa28edb4a7e60bf8a800ef24c26eb3.png",
+        "https://cdn.steamgriddb.com/grid/6d10d9c4eddce4eb38629280cf36449a.png",
+        "https://cdn.steamgriddb.com/grid/7cdaf866427e1b0d08be0c6bdf6669d5.png",
+        "https://cdn.steamgriddb.com/grid/028188166d8e2bfc87cadf1a1abe429f.png",
+        "https://cdn.steamgriddb.com/grid/20c8c7eecef8f1d8008be33f224b7a89.png",
+        "https://cdn.steamgriddb.com/grid/3547dff734fb502d45d110346e98523f.png",
+        "https://cdn.steamgriddb.com/grid/1a81f073643813cbfc8102ccb388441e.png",
+        "https://cdn.steamgriddb.com/grid/977d11495762f3067f710789e03cb2ec.png",
+        "https://cdn.steamgriddb.com/grid/683ae2abe4399598f08a242429f54bdc.png",
+        "https://cdn.steamgriddb.com/grid/7a2f199a2530f7e9875e5e39fa57e140.png",
+        "https://cdn.steamgriddb.com/grid/7494d0d2a566b7525b4e9b4d0eae43b5.png",
+        "https://cdn.steamgriddb.com/grid/efb5e8044eb5790f37d97cf1a49637e5.png",
+        "https://cdn.steamgriddb.com/grid/648c26c8b6d9521fabe8ff9fd31e6e6f.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/9828cb4d004ea22ddad5fb03c84a2379.png",
+        "https://cdn.steamgriddb.com/grid/7363e32af3e3a10f22af512c70068958.png",
+        "https://cdn.steamgriddb.com/grid/6c3cf77d52820cd0fe646d38bc2145ca.png",
+        "https://cdn.steamgriddb.com/grid/65699726a3c601b9f31bf04019c8593c.png",
+        "https://cdn.steamgriddb.com/grid/9087cd8bfa9c1968b20d8f6d0b81cbbb.png",
+        "https://cdn.steamgriddb.com/grid/c7af0926b294e47e52e46cfebe173f20.png",
+        "https://cdn.steamgriddb.com/grid/cb2c2041d9763d84d7d655e81178f444.png",
+        "https://cdn.steamgriddb.com/grid/edb684859b848362ec56904286947614.png",
+        "https://cdn.steamgriddb.com/grid/a22d33b4a00c165507a61f3bed4b5149.png",
+        "https://cdn.steamgriddb.com/grid/ebc004ec5144030d8c365456db040dc1.png",
+        "https://cdn.steamgriddb.com/grid/79fde5402cbc75ae0615c9ae4c335b46.png",
+        "https://cdn.steamgriddb.com/grid/4d630f9347177b17ec7a362f19489239.png",
+        "https://cdn.steamgriddb.com/grid/d34250a7e859a05bb6a18edcc70564d8.png",
+        "https://cdn.steamgriddb.com/grid/0f0671779c244dbf8ee04425ad06a093.png",
+        "https://cdn.steamgriddb.com/grid/66f870cbf6b7ef5d6d1c8a3d4671e775.png"
+      ],
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_242760.acf",
+      "title": "The Forest"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/b0e65950bb01355463e3a38354d9f334.png",
+        "https://cdn.steamgriddb.com/grid/b41b85ff7b1515b03b8081eb5b03392e.png",
+        "https://cdn.steamgriddb.com/grid/5b2f16e950daeab64b597227513d743b.png",
+        "https://cdn.steamgriddb.com/grid/fe2da9ceaf2c691abb706a49c22ba094.png",
+        "https://cdn.steamgriddb.com/grid/024ffb787a26309b8e545c9fd279e8d3.png",
+        "https://cdn.steamgriddb.com/grid/abe6554dc394ac148a5e3643d984f2a8.png",
+        "https://cdn.steamgriddb.com/grid/c04c93a41c414f2801d74c3d5a063a34.png",
+        "https://cdn.steamgriddb.com/grid/a2aca9f3d4435d75714b4d55ff778fa8.png",
+        "https://cdn.steamgriddb.com/grid/05c4a81e2dc88cb87f92c878d0d6dfb1.png",
+        "https://cdn.steamgriddb.com/grid/dbc9df90257ced5f4c3f7a31e0ac2692.png",
+        "https://cdn.steamgriddb.com/grid/e70f03cba7052552bd50ca341cb39e36.png",
+        "https://cdn.steamgriddb.com/grid/f346c94b29cf09906d5d3f9eed81a419.png",
+        "https://cdn.steamgriddb.com/grid/9e0e40a51b6ed794dbcfbd46410ba102.png",
+        "https://cdn.steamgriddb.com/grid/1e7bee8c2dde077999bb66d6bbc8b278.png",
+        "https://cdn.steamgriddb.com/grid/3d03f0dbc640299c886c6e374b96e283.png",
+        "https://cdn.steamgriddb.com/grid/8e89bbcd1fdd8e456138cde2f4799e57.png",
+        "https://cdn.steamgriddb.com/grid/00d4e8dc00199e8f068f6021da847609.png",
+        "https://cdn.steamgriddb.com/grid/9c7f37f5c187f662eaf7d0df83ac8804.png",
+        "https://cdn.steamgriddb.com/grid/dc08bf21c327133ec455681ed7644116.png",
+        "https://cdn.steamgriddb.com/grid/521dc0b5a8058b72e16d3d3e8357f768.png",
+        "https://cdn.steamgriddb.com/grid/92c4794cb5e55b5a424ce9b19ab21961.png",
+        "https://cdn.steamgriddb.com/grid/56e50467c8f9b2f27641d5f950c24eef.png",
+        "https://cdn.steamgriddb.com/grid/349319c989f70ac97c3824689547bf5d.png",
+        "https://cdn.steamgriddb.com/grid/82fa2e0589a59f130e4bc3238c94e572.png",
+        "https://cdn.steamgriddb.com/grid/9f7528a4584a4064a72e211ddb3197a5.png",
+        "https://cdn.steamgriddb.com/grid/dcf2c78622ae327b64aba4680373097a.png",
+        "https://cdn.steamgriddb.com/grid/59fdaa1eb7d8c2ae19f3e0444d9d1faa.png",
+        "https://cdn.steamgriddb.com/grid/bdffd8ee443a9507462b7015aa990494.png",
+        "https://cdn.steamgriddb.com/grid/61eed5440ef0e04ae611e15c439320f5.png",
+        "https://cdn.steamgriddb.com/grid/c27723259e5c364a4eab5f6decb2019f.png",
+        "https://cdn.steamgriddb.com/grid/cd24c3cabd88307c9c9299817143ba5d.png",
+        "https://cdn.steamgriddb.com/grid/60c708516a302e1b94ce771f1c6c6786.png",
+        "https://cdn.steamgriddb.com/grid/94b4f1c7033b10801cd7696329c5d15d.png",
+        "https://cdn.steamgriddb.com/grid/43d10fd5cd43cc221a69fe3064624258.png",
+        "https://cdn.steamgriddb.com/grid/f63c5cdce8dd280d46778a677eacc5cb.png",
+        "https://cdn.steamgriddb.com/grid/3f7f63d0fdc93d202a2a48212f1cffed.png",
+        "https://cdn.steamgriddb.com/grid/4d516fbc2b9e8863f443f3a58b9da44f.png",
+        "https://cdn.steamgriddb.com/grid/b9548de4f59c0168cead98d23a2ffa3b.png",
+        "https://cdn.steamgriddb.com/grid/123439fb5963d6cc88a4e50a170fc53e.png",
+        "https://cdn.steamgriddb.com/grid/f3b234429025ae8ac1d316583a794194.png",
+        "https://cdn.steamgriddb.com/grid/4decb3854b261cd1568a5f1800469797.png",
+        "https://cdn.steamgriddb.com/grid/6ca2fee06ac35730f1cc922e8985e9ba.png",
+        "https://cdn.steamgriddb.com/grid/535a268496d6937034469180d585a4d9.png",
+        "https://cdn.steamgriddb.com/grid/0ba5ba83db54e6be963744b74a0dd370.png",
+        "https://cdn.steamgriddb.com/grid/c3068f02ebf7d7425caa13e51d88a6b3.png",
+        "https://cdn.steamgriddb.com/grid/ae0e1b9353d3f43727c6bd6b902c8499.png",
+        "https://cdn.steamgriddb.com/grid/424b300d70a3a4bdbc959dacdd5d77f9.png",
+        "https://cdn.steamgriddb.com/grid/062eb81d4674705d10c8ecb848358cb3.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/fcfe47c90630b5f5781b3e78f49fb566.png",
+        "https://cdn.steamgriddb.com/grid/01d8bae291b1e4724443375634ccfa0e.png",
+        "https://cdn.steamgriddb.com/grid/8cbf1695be0572428dbb70f41f833783.png",
+        "https://cdn.steamgriddb.com/grid/06efc3b2376e4b23e284094112b8ce94.png",
+        "https://cdn.steamgriddb.com/grid/28395fe80c4551cf02fb5eb7ab36fc27.png",
+        "https://cdn.steamgriddb.com/grid/5bf25b785406666d02272cf9cf0b9445.png",
+        "https://cdn.steamgriddb.com/grid/a0def054ef84ac2784ea52baee05d95f.png",
+        "https://cdn.steamgriddb.com/grid/ab4f2b5fd96ca65349119909c1eada2d.png",
+        "https://cdn.steamgriddb.com/grid/4ead267a4c580e9cd7f60652630ace98.png",
+        "https://cdn.steamgriddb.com/grid/12c9572aee915aa05233c43f75e915a6.png",
+        "https://cdn.steamgriddb.com/grid/efe71abc27e9e9e53488787ae6a17c6d.png",
+        "https://cdn.steamgriddb.com/grid/9b04d152845ec0a378394003c96da594.png",
+        "https://cdn.steamgriddb.com/grid/dafe0a22bfe43bc5f925ad398d6f90c2.png",
+        "https://cdn.steamgriddb.com/grid/1952564fda39fc3bb3638cc1ae8fd239.png",
+        "https://cdn.steamgriddb.com/grid/eb6ee4b36cdf23e8167e10a47e340fed.png",
+        "https://cdn.steamgriddb.com/grid/03e7ef47cee6fa4ae7567394b99912b7.png",
+        "https://cdn.steamgriddb.com/grid/755945a59ff256394631b079277ab8bc.png",
+        "https://cdn.steamgriddb.com/grid/ef5c7ecb02ee6b0a33dba6c4af9c736f.png",
+        "https://cdn.steamgriddb.com/grid/f3bd5ad57c8389a8a1a541a76be463bf.png",
+        "https://cdn.steamgriddb.com/grid/0c2b52a946ce2657e1af75ee6cb84898.png",
+        "https://cdn.steamgriddb.com/grid/95ca43b0dd15e6c2017380002b8b3851.png",
+        "https://cdn.steamgriddb.com/grid/0ab605102670807b661d9a1a4e618745.png",
+        "https://cdn.steamgriddb.com/grid/f77ecc17109b1b806350eb7e7bbfd861.png",
+        "https://cdn.steamgriddb.com/grid/1c009f16f2815685be7824a01ace7350.png",
+        "https://cdn.steamgriddb.com/grid/be7aa2cbaabd6ecadb82439e87d3b2f9.png",
+        "https://cdn.steamgriddb.com/grid/9cc1efe753654fa0220a77e5c3c14478.png",
+        "https://cdn.steamgriddb.com/grid/c6029c2e2ed1d0a8594a28d81d32c8b5.png",
+        "https://cdn.steamgriddb.com/grid/62da5a6d47be0029801ba74a17e47e1a.png",
+        "https://cdn.steamgriddb.com/grid/c3a93eac6e6d4ec470b1f7f5dc024e20.png",
+        "https://cdn.steamgriddb.com/grid/ae1e81005884bf2e0ec60528aea951d4.png",
+        "https://cdn.steamgriddb.com/grid/c2ed076b91df73887a642ad1b7999a65.png",
+        "https://cdn.steamgriddb.com/grid/305f142cff3204e060e302dc86ea9a81.png"
+      ],
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\BE90F6CD47241E9CE3079583E2729479.item",
+      "title": "HITMAN"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/42cbaece0f8e48e7b8c957679e2402c8.png",
+        "https://cdn.steamgriddb.com/grid/3896561c20485f4eafdf039e7b9cf037.png",
+        "https://cdn.steamgriddb.com/grid/e9d86e939586740e628945ebffd47c47.png",
+        "https://cdn.steamgriddb.com/grid/eb114aec96224a4c14646877cbd8fd8d.png",
+        "https://cdn.steamgriddb.com/grid/d2aed53f72e711e5432279ccc7565dee.png",
+        "https://cdn.steamgriddb.com/grid/d11b271b3c83bd5f7a66d1138256a7dd.png",
+        "https://cdn.steamgriddb.com/grid/417a74569e4eb22c180844feb72a5160.png",
+        "https://cdn.steamgriddb.com/grid/b740f3ca40f9544ffd7e65dd6f65f7fb.png",
+        "https://cdn.steamgriddb.com/grid/165e21946d3b619fb6dff4613f9115c0.png",
+        "https://cdn.steamgriddb.com/grid/a5211379cca689e20fdbff639927e61a.png",
+        "https://cdn.steamgriddb.com/grid/550aae1e60740ba60f4dc8a255e0e960.png",
+        "https://cdn.steamgriddb.com/grid/db01afba1fbd4cb3686884a7dfe125c9.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/d860edd1dd83b36f02ce52bde626c653.png",
+        "https://cdn.steamgriddb.com/grid/951859dbaeaaaf8253048785d4f110ab.png",
+        "https://cdn.steamgriddb.com/grid/956685427c5cd9dcb04f784272727336.png",
+        "https://cdn.steamgriddb.com/grid/991becb4d6456d01dad848301495f0ea.png",
+        "https://cdn.steamgriddb.com/grid/cd882239782e46c81f650fc5a6136d2e.png",
+        "https://cdn.steamgriddb.com/grid/54fe976ba170c19ebae453679b362263.png",
+        "https://cdn.steamgriddb.com/grid/7059c6d38ee3bd1197869687cbb10fc2.png"
+      ],
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\82CEAC914F36117ABA47BA927876CEB3.item",
+      "title": "Torchlight II"
+    },
+    {
+      "main-image": [
+        "https://cdn.steamgriddb.com/grid/11d916705ae904d54afd203f6fb00858.png",
+        "https://cdn.steamgriddb.com/grid/8bd1e93b7a7f38c30d2d1278a755e9dd.png",
+        "https://cdn.steamgriddb.com/grid/a8b4e1711d6984d13cb9050939f14dc3.png",
+        "https://cdn.steamgriddb.com/grid/bd50a6d0a7efa023a5de5fa621ed3f74.png",
+        "https://cdn.steamgriddb.com/grid/9d132569e304e1009b7b93182077b920.png",
+        "https://cdn.steamgriddb.com/grid/41ccf6d63155cae584db854adffaf830.png",
+        "https://cdn.steamgriddb.com/grid/da8d4a7a100fbf61020bcdba7457a967.png",
+        "https://cdn.steamgriddb.com/grid/0fd1b16b5c3c148a9b2b7d878e985b3a.png",
+        "https://cdn.steamgriddb.com/grid/49c6013040690fa5a2a112d8deed3ed2.png",
+        "https://cdn.steamgriddb.com/grid/e20453c4a33cc42c30d103d6d327503b.png",
+        "https://cdn.steamgriddb.com/grid/50b0fcfc9349c23c93831f500613204d.png",
+        "https://cdn.steamgriddb.com/grid/7d15fea968ceac7b6cae8b3f0893dd09.png",
+        "https://cdn.steamgriddb.com/grid/f613b01d52b86da04ae810f173d5aaef.png",
+        "https://cdn.steamgriddb.com/grid/a461b2d6e2dcd85ebbce05ccf6e8b4ff.png",
+        "https://cdn.steamgriddb.com/grid/6ef15536687c9a6dcbaad3f3dc2b1e98.png"
+      ],
+      "wide-image": [
+        "https://cdn.steamgriddb.com/grid/ce65aa143183d7336a8e77d192e7e44e.png",
+        "https://cdn.steamgriddb.com/grid/a0630234fbf4e4a6985e20a61d9c2031.png",
+        "https://cdn.steamgriddb.com/grid/929a74e4471269c813c699a00168c37e.png",
+        "https://cdn.steamgriddb.com/grid/95f2b84de5660ddf45c8a34933a2e66f.png",
+        "https://cdn.steamgriddb.com/grid/7c9ff93b39d7912d9535aa6bbd83bad5.png",
+        "https://cdn.steamgriddb.com/grid/de0d969fa05ce77bb4f5d11b23f0c2fd.png"
+      ],
+      "provider": "epic",
+      "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\52E8136E49F8E2B9758C33A60B930320.item",
+      "title": "Inside"
     }
   ]
 }

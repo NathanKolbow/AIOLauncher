@@ -5,14 +5,124 @@
   <head>
     <link rel="stylesheet" href="index.css">
     <link rel="stylesheet" href="../node_modules/materialize-css/dist/css/materialize.min.css">
-    
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-alpha.2/js/materialize.min.js"></script>
+    <script src="js/index.js"></script>
+    <script src="js/collection-manager.js"></script>
   </head>
 
-  <body>
-    <div id="distributor-collection"></div>
+  <body class="theme-secondary">
+    <div class="navbar-fixed">
+      <nav class="nav-extended">
+        <div class="nav-wrapper theme-primary">
+          <ul id="nav-wrapper" class="left">
+            <li><a href="#!" id="filter-button" class="btn-flat waves-effect waves-light theme-primary theme-accent-text">Sort & Filter</a></li>
+            <li><a href="#!" class="btn theme-primary theme-accent-text">Button 2</a></li>
+            <li><a href="#!" class="btn theme-primary theme-accent-text">Button 3</a></li>
+          </ul>
+        </div>
+
+        <div class="divider"></div>
+
+        <div class="nav-content theme-secondary">
+          <!-- Collapsible element START -->
+          <ul class="collapsible" id="settings-box">
+            <li>
+              <div class="collapsible-body"><span>
+                <div class="row settings-row">
+                  <div class="col s6">
+                    <h6>Filter by Distributor</h6>
+
+                    <!-- Checkboxes START -->
+                    <p>
+                      <label>
+                        <input class="settings-box all" onclick="toggle_all();" type="checkbox" checked="checked"/>
+                        <span>All</span>
+                      </label>
+                    </p>
+
+                    <p>
+                      <label>
+                        <input class="settings-box not-all steam" onclick="toggle_steam();" type="checkbox" checked="checked" disabled="disabled" />
+                        <span>Steam</span>
+                      </label>
+                    </p>
+
+                    <p>
+                      <label>
+                        <input class="settings-box not-all epic" onclick="toggle_epic();" type="checkbox" checked="checked" disabled="disabled" />
+                        <span>Epic Games</span>
+                      </label>
+                    </p>
+                    <!-- Checkboxes END -->
+                  </div>
+
+                  <div class="col s3">
+                    Filters
+                  </div>
+                </row>
+              </span></div>
+            </li>
+          </ul>
+          <!-- Collapsible element END -->
+
+          <!-- <div class="divider"></div> -->
+
+          <ul class="tabs tabs-transparent">
+            <li class="tab"><a href="#!" class="theme-secondary theme-accent-text">Tab 1</a></li>
+            <li class="tab"><a href="#!" class="theme-secondary theme-accent-text">Tab 2</a></li>
+            <li class="tab"><a href="#!" class="theme-secondary theme-accent-text">Tab 3</a></li>
+            <li class="tab"><a href="#!" class="theme-secondary theme-accent-text">Tab 4</a></li>
+          </ul>
+        </div>
+      </nav>
+    </div>
+
+    <div id="game-container" style="width: 98%">
+      <div id="distributor-collection"></div>
+    </div>
   </body>
   
 </html>
 
 
-<script src="js/game-resolver.js"></script>
+<script>
+  // Code for dropdown in navbar
+  var elem = document.querySelectorAll('.dropdown-trigger');
+  console.log(elem);
+  for(i = 0; i < elem.length; i++) {
+      let _ = new M.Dropdown(elem[i], {
+          accordion: false,
+          coverTrigger: false,
+          alignment: 'left',
+          constrainWidth: false,
+          hover: true,
+          inDuration: 350,
+          outDuration: 350
+      });
+  }
+
+  // Code for collapsible in navbar
+  var elem = document.querySelectorAll('.collapsible');
+  let settings_box;
+  for(i = 0; i < elem.length; i++) {
+    let _ = new M.Collapsible(elem[i], {
+      accordion: true,
+      inDuration: 350,
+      outDuration: 350,
+      onOpenEnd: (function () { $('li.active').attr('id', 'drop-li'); })
+    });
+    if(elem[i].id == 'settings-box') {
+      settings_box = _;
+    }
+  }
+
+  document.getElementById('filter-button').onclick = function() {
+    if($('#settings-box li.active')[0] != null) {
+      settings_box.close();
+    } else {
+      settings_box.open();
+    }
+  };
+</script>

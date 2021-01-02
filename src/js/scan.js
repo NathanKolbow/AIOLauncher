@@ -19,43 +19,75 @@
 
 const fs = require('fs');
 const path = require('path');
-const { resolve_epic } = require('./js/image-resolver');
+const { resolve_epic, resolve_steam } = require('./js/image-resolver');
 
-async function scan_epic(manifest_dir) {
+async function scan(manifest_dir, provider) {
     var promise = new Promise((resolve, reject) => {
         return fs.promises.readdir(manifest_dir, (err, files) => {
-            if(err != null)
-                reject(err);
-            else 
-                resolve(files);
+            if(err) reject(err);
+            else resolve(files);
         })
     });
 
     promise.then((files) => {
         var games = [];
         files.forEach(async (file) => {
-            if(!file.endsWith('.item'))
+            if(provider == 'epic' && !file.endsWith('.item'))
+                return;
+            if(provider == 'steam' && !file.endsWith('.acf'))
                 return;
 
             if(manifest_exists(path.join(manifest_dir, file)))
                 return;
 
             var out = fs.readFileSync(path.join(manifest_dir, file)).toString();
-            out = JSON.parse(out);
+            if(provider == 'epic') {
+                out = JSON.parse(out);
+                out['name'] = out['DisplayName'];
+            } else if(provider == 'steam') {
+                let _search = out.indexOf('"appid"') + 7;
+                let quote_count = 0;
+                let _indeces = [];
+                while(quote_count < 2) {
+                    _search++;
+                    if(out[_search] == '"') {
+                        quote_count++;
+                        _indeces.push(_search);
+                    }
+                }
+
+                _search = out.indexOf('"name"') + 6;
+                quote_count = 0;
+                let _first = -1;
+                while(quote_count < 2) {
+                    _search++;
+                    if(out[_search] == '"') {
+                        quote_count++;
+                        _indeces.push(_search);
+                    }
+                }
+
+                out = {
+                    'appid': out.substring(_indeces[0]+1, _indeces[1]),
+                    'name' : out.substring(_indeces[2]+1, _indeces[3])
+                }
+            }
             
             if(out['LaunchExecutable'] == "")
                 return;
 
-            var epic_promise = resolve_epic(out['CatalogItemId'], out['DisplayName']);
-            epic_promise.then((obj) => {
-                obj['provider'] = 'epic';
+            var promise = (provider == 'epic')  ? resolve_epic(out['CatalogItemId'], out['DisplayName'])
+                        : (provider == 'steam') ? resolve_steam(out['appid'], out['name'])
+                        : null;
+            promise.then((obj) => {
+                obj['provider'] = provider;
                 obj['manifest'] = path.join(manifest_dir, file);
-                obj['title'] = out['DisplayName'];
+                obj['title'] = out['name'];
 
                 var json = JSON.parse(fs.readFileSync('src/config/map.json'));
                 json['games'].push(obj);
                 fs.writeFileSync('src/config/map.json', JSON.stringify(json, null, 2));
-            })
+            });
         });
     });
 }
@@ -68,3 +100,5 @@ function manifest_exists(manifest) {
     }
     return false;
 }
+
+module.exports.scan = scan;
