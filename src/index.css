@@ -151,6 +151,6 @@ li.active {
   z-index: -1;
 }
 
-#game-container {
+#game-container, #scroll-container {
   margin-top: 50px;
 }

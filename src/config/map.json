@@ -7,13 +7,6 @@
   ],
   "games": [
     {
-      "main-image": [],
-      "wide-image": [],
-      "provider": "steam",
-      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_1341230.acf",
-      "title": "Super Buckyball Tournament Preseason"
-    },
-    {
       "main-image": [
         "https://cdn.steamgriddb.com/grid/e14309c4834ee4f482f0b347f65103a4.png"
       ],
@@ -1996,6 +1989,18 @@
       "provider": "epic",
       "manifest": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\52E8136E49F8E2B9758C33A60B930320.item",
       "title": "Inside"
+    },
+    {
+      "main-image": [
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/1341230/library_600x900_2x.jpg"
+      ],
+      "wide-image": [
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/1341230/library_hero.jpg"
+      ],
+      "wide-logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/1341230/logo.png",
+      "provider": "steam",
+      "manifest": "M:\\SteamLibrary\\steamapps\\appmanifest_1341230.acf",
+      "title": "Super Buckyball Tournament Preseason"
     }
   ]
 }

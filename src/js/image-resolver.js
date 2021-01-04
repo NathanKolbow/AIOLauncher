@@ -2,12 +2,28 @@ const fetch = require('node-fetch');
 const pako  = require('pako');
 
 async function resolve_steam(appid, name) {
-    return resolve_steamgrid(name);
+    var tall_url  = 'https://cdn.cloudflare.steamstatic.com/steam/apps/' + appid + '/library_600x900_2x.jpg';
+    var wide_url  = 'https://cdn.cloudflare.steamstatic.com/steam/apps/' + appid + '/library_hero.jpg'
+    var wide_logo = 'https://cdn.cloudflare.steamstatic.com/steam/apps/' + appid + '/logo.png';
+
+    return resolve_steamgrid(name)
+    .then(obj => {
+        obj['steam-tall'] = tall_url;
+        obj['steam-wide'] = wide_url;
+        obj['steam-wide-logo'] = wide_logo;
+      
+        return obj;
+    })
+    .catch(error => {
+        console.error("Failed while fetching images for " + name);
+        return {};
+    });
 }
 
 // This DB doesn't have every game's icon info, but it has a lot
 async function resolve_epic(itemId, name) {
     return resolve_steamgrid(name);
+
     var url = 'https://raw.githubusercontent.com/EpicData-info/items-tracker/master/database/items/' + itemId + '.json'
 
     var promise = new Promise((resolve, _) => {

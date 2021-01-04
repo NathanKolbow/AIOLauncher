@@ -30,14 +30,19 @@ function set_dark_theme() {
 }
 
 function game_sort_abc(a, b) {
-    var a_t = (a.title.substring(0, 3).toLowerCase() == 'the')
-            ? a.title.substring(4, a.title.length-1)
-            : a.title;
-    var b_t = (b.title.substring(0, 3).toLowerCase() == 'the')
-            ? b.title.substring(4, b.title.length-1)
-            : b.title;
+    // a_t = a.title.trim();
+    // if(a_t.substring(0, 3).toLowerCase() == 'the')
+    //     a_t = a_t.substring(4, a_t.length - 1).trim();
+    // if(a_t.substring(0, 11).toLowerCase() == 'sid meier\'s')
+    //     a_t = a_t.substring(11, a_t.length - 1).trim();
 
-    return a_t.localeCompare(b_t);
+    // b_t = b.title.trim();
+    // if(b_t.substring(0, 3).toLowerCase() == 'the')
+    //     b_t = b_t.substring(4, b_t.length - 1).trim();
+    // if(b_t.substring(0, 11).toLowerCase() == 'sid meier\'s')
+    //     b_t = b_t.substring(12, b_t.length).trim();
+
+    return a.title.localeCompare(b.title);
 }
 
 // Code for making everything visible after doc is loaded
