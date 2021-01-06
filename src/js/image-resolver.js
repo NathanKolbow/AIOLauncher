@@ -151,5 +151,5 @@ function fetch_grid_hrefs(url, nsfw=false, strict=true, n_grids=-1, n_titles=-1)
     });
 }
 
-exports.resolve_epic = resolve_epic;
-exports.resolve_steam = resolve_steam;
+module.exports.resolve_epic = resolve_epic;
+module.exports.resolve_steam = resolve_steam;

@@ -18,10 +18,9 @@
 // C:\Users\Nathan\AppData\Local\EpicGamesLauncher\Saved\webcache_4147\IndexedDB\https_www.epicgames.com_0.indexeddb.leveldb
 
 const fs = require('fs');
-const path = require('path');
-const { resolve_epic, resolve_steam } = require('./js/image-resolver');
+const { resolve_epic, resolve_steam } = require(path.resolve(`${remote.app.getAppPath()}/src/js/image-resolver`));
 
-async function scan(manifest_dir, provider) {
+async function scan(manifest_dir, provider) {    
     var promise = new Promise((resolve, reject) => {
         return fs.promises.readdir(manifest_dir, (err, files) => {
             if(err) reject(err);
@@ -32,19 +31,19 @@ async function scan(manifest_dir, provider) {
     promise.then((files) => {
         var games = [];
         files.forEach(async (file) => {
-            if(provider == 'epic' && !file.endsWith('.item'))
+            if(provider == 'Epic' && !file.endsWith('.item'))
                 return;
-            if(provider == 'steam' && !file.endsWith('.acf'))
+            if(provider == 'Steam' && !file.endsWith('.acf'))
                 return;
 
             if(manifest_exists(path.join(manifest_dir, file)))
                 return;
 
             var out = fs.readFileSync(path.join(manifest_dir, file)).toString();
-            if(provider == 'epic') {
+            if(provider == 'Epic') {
                 out = JSON.parse(out);
                 out['name'] = out['DisplayName'];
-            } else if(provider == 'steam') {
+            } else if(provider == 'Steam') {
                 let _search = out.indexOf('"appid"') + 7;
                 let quote_count = 0;
                 let _indeces = [];
@@ -76,24 +75,30 @@ async function scan(manifest_dir, provider) {
             if(out['LaunchExecutable'] == "")
                 return;
 
-            var promise = (provider == 'epic')  ? resolve_epic(out['CatalogItemId'], out['DisplayName'])
-                        : (provider == 'steam') ? resolve_steam(out['appid'], out['name'])
+            var promise = (provider == 'Epic')  ? resolve_epic(out['CatalogItemId'], out['DisplayName'])
+                        : (provider == 'Steam') ? resolve_steam(out['appid'], out['name'])
                         : null;
             promise.then((obj) => {
                 obj['provider'] = provider;
                 obj['manifest'] = path.join(manifest_dir, file);
                 obj['title'] = out['name'];
 
-                var json = JSON.parse(fs.readFileSync('src/config/map.json'));
+                $('#found-field')[0].innerHTML = "Discovered " + obj['title'] + ' (' + obj['provider'] + ')';
+
+                var json = JSON.parse(fs.readFileSync(path.resolve(`${remote.app.getAppPath()}/src/config/map.json`)));
                 json['games'].push(obj);
-                fs.writeFileSync('src/config/map.json', JSON.stringify(json, null, 2));
+                fs.writeFileSync(path.resolve(`${remote.app.getAppPath()}/src/config/map.json`), JSON.stringify(json, null, 2));
             });
         });
+    })
+    .catch(error => {
+        console.warn("Caught error when scanning.");
+        console.error(error);
     });
 }
 
 function manifest_exists(manifest) {
-    var json = JSON.parse(fs.readFileSync('src/config/map.json'));
+    var json = JSON.parse(fs.readFileSync(path.resolve(`${remote.app.getAppPath()}/src/config/map.json`)));
     for(i = 0; i < json['games'].length; i++) {
         if(json['games'][i]['manifest'] == manifest)
             return true;

@@ -1,9 +1,7 @@
 // requires
-const { resolve } = require('path');
-const { games, launch_game } = require(resolve(`${remote.app.getAppPath()}/src/js/application-launcher`));
+const { games, launch_game } = require(path.resolve(`${remote.app.getAppPath()}/src/js/application-launcher`));
 
 var present_letters = [];
-var scrollspy_instances;
 
 /**
  * Empties the current game collection and then loads in a new set of games based on the sort and filter functions provided.
@@ -20,11 +18,12 @@ function load_library(sort_function, filter_function) {
     // Fetch the collection
     const collection = document.getElementById('distributor-collection');
 
+    // Sort the games (this needs to be done to the master log so that application-launcher.js
+    // knows which app to launch)
+    games.sort(sort_function);
     // New var so that we don't override the master ledger
     // Filter the games
     var temp_games = games.filter(filter_function);
-    // Sort the games
-    temp_games.sort(sort_function);
 
     // Right now everything is just put into a singular row
     // TODO: Make different functions for choosing different sortings,
@@ -37,7 +36,7 @@ function load_library(sort_function, filter_function) {
         var game = temp_games[k];
 
         var col = document.createElement('div');
-        col.className = 'col s2 game ' + game['provider'];
+        col.className = 'col s3 m2 l1 game ' + game['provider'];
         
         var span = document.createElement('span');
         span.className = 'flow-text';
@@ -94,57 +93,10 @@ function load_library(sort_function, filter_function) {
     }
 
     collection.appendChild(row);
-  
-    document.getElementById('filter-button').onclick = function() {
-        if($('#filter-box li.active')[0] != null) {
-            filter_box.close();
-            filter_box.options['open'] = false;
-        } else {
-            if(sort_box.options['open']) {
-                var dur = sort_box.options['outDuration'];
-                sort_box.options['outDuration'] = 0;
-                sort_box.close();
-                sort_box.options['outDuration'] = dur;
-                sort_box.options['open'] = false;
-
-                dur = filter_box.options['inDuration'];
-                filter_box.options['inDuration'] = 0;
-                filter_box.open();
-                filter_box.options['inDuration'] = dur;
-            } else {
-                filter_box.open();
-            }
-
-            filter_box.options['open'] = true;
-        }
-    };
-    document.getElementById('sort-button').onclick = function() {
-        if($('#sort-box li.active')[0] != null) {
-            sort_box.close();
-            sort_box.options['open'] = false;
-        } else {
-            if(filter_box.options['open']) {
-                var dur = filter_box.options['outDuration'];
-                filter_box.options['outDuration'] = 0;
-                filter_box.close();
-                filter_box.options['outDuration'] = dur;
-                filter_box.options['open'] = false;
-
-                dur = sort_box.options['inDuration'];
-                sort_box.options['inDuration'] = 0;
-                sort_box.open();
-                sort_box.options['inDuration'] = dur;
-            } else {
-                sort_box.open();
-            }
-            
-            sort_box.options['open'] = true;
-        }
-    };
 }
 
 // Settings checkbox pressing handling
-function toggle_all() {
+function filter_toggle_all() {
     if($('.filter-box.all')[0].checked) {
         $('.filter-box.not-all').prop('checked', true).attr('disabled', 'disabled');
         $('.game').show();
@@ -153,7 +105,7 @@ function toggle_all() {
     }
 }
 
-function toggle_steam() {
+function filter_toggle_steam() {
     if($('.filter-box.steam')[0].checked) {
         $('.game.Steam').show();
     } else {
@@ -161,7 +113,7 @@ function toggle_steam() {
     }
 }
 
-function toggle_epic() {
+function filter_toggle_epic() {
     if($('.filter-box.epic')[0].checked) {
         $('.game.Epic').show();
     } else {
@@ -171,4 +123,7 @@ function toggle_epic() {
 
 
 module.exports.load_library = load_library;
+module.exports.filter_toggle_all = filter_toggle_all;
+module.exports.filter_toggle_steam = filter_toggle_steam;
+module.exports.filter_toggle_epic = filter_toggle_epic;
 module.exports.present_letters = present_letters;

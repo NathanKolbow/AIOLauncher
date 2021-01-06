@@ -3,7 +3,7 @@
 
 <html>
   <head>
-    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="../node_modules/materialize-css/dist/css/materialize.min.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
@@ -14,12 +14,11 @@
 
   <body class="theme-secondary">
     <div class="navbar-fixed">
-      <nav class="nav-extended">
+      <nav class="nav-center nav-extended">
         <div class="nav-wrapper theme-primary">
-          <ul id="nav-wrapper" class="left">
-            <li><a href="#!" class="btn-flat waves-effect waves-light theme-primary theme-accent-text">Button 1</a></li>
-            <li><a href="#!" class="btn theme-primary theme-accent-text">Button 2</a></li>
-            <li><a href="#!" class="btn theme-primary theme-accent-text">Button 3</a></li>
+          <ul id="nav-wrapper">
+            <li><a href="#!" onClick="goto('library');" class="btn-flat btn-library current btn-large theme-primary theme-accent-text header-button">Library</a></li>
+            <li><a href="#!" onClick="goto('settings');" class="btn-flat btn-settings not-current btn-large theme-primary theme-accent-text header-button">Settings</a></li>
           </ul>
         </div>
 
@@ -37,21 +36,21 @@
                     <!-- Checkboxes START -->
                     <p>
                       <label>
-                        <input class="filter-box all" onclick="toggle_all();" type="checkbox" checked="checked"/>
+                        <input class="filter-box all" onclick="coll.filter_toggle_all();" type="checkbox" checked="checked"/>
                         <span class="theme-accent-text">All</span>
                       </label>
                     </p>
 
                     <p>
                       <label>
-                        <input class="filter-box not-all steam" onclick="toggle_steam();" type="checkbox" checked="checked" disabled="disabled" />
+                        <input class="filter-box not-all steam" onclick="coll.filter_toggle_steam();" type="checkbox" checked="checked" disabled="disabled" />
                         <span class="theme-accent-text">Steam</span>
                       </label>
                     </p>
 
                     <p>
                       <label>
-                        <input class="filter-box not-all epic" onclick="toggle_epic();" type="checkbox" checked="checked" disabled="disabled" />
+                        <input class="filter-box not-all epic" onclick="coll.filter_toggle_epic();" type="checkbox" checked="checked" disabled="disabled" />
                         <span class="theme-accent-text">Epic Games</span>
                       </label>
                     </p>
@@ -99,24 +98,118 @@
 
           <!-- <div class="divider"></div> -->
 
-          <ul class="tabs tabs-fixed-width tabs-transparent">
-            <li class="tab"><a href="#!" id="filter-button" class="theme-secondary theme-accent-text waves-effect waves-light">Filter</a></li>
-            <div class="divider"></div>
-            <li class="tab"><a href="#!" id="sort-button" class="theme-secondary theme-accent-text waves-effect waves-light">Sort</a></li>
+          <ul class="tabs library tabs-fixed-width tabs-transparent">
+            <li class="tab filter"><a href="#!" onClick="tab_click('filter');" id="filter-button" class="theme-secondary theme-accent-text waves-effect waves-light">Filter</a></li>
+            <li class="tab sort"><a href="#!" onClick="tab_click('sort');" id="sort-button" class="theme-secondary theme-accent-text waves-effect waves-light">Sort</a></li>
+          </ul>
+          <ul class="tabs settings tabs-fixed-width tabs-transparent">
+            <li class="tab general"><a href="#!" onClick="tab_click('general');" id="general-button" class="theme-secondary theme-accent-text waves-effect waves-light">General</a></li>
+            <li class="tab manifests"><a href="#!" onClick="tab_click('manifests');" id="manifests-button" class="theme-secondary theme-accent-text waves-effect waves-light">Manifests</a></li>
           </ul>
         </div>
       </nav>
     </div>
 
-    <div id="game-container" style="width: 100%;">
+    <div id="game-container" class="body-container library" style="width: 100%;">
       <div id="distributor-collection"></div>
+    </div>
+    <div id="settings-container" class="body-container settings">
+      <div id="settings-general" class="settings general">
+        
+        <div class="row">
+          <div class="col s6">
+            <h4 class="center theme-accent-text"><i>Grids</i></h4>
+            <br/>
+
+            <h6 class="theme-accent-text"><b>Allowed Grid Images</b></h6>
+            <p><label>
+              <input id="animated-check" type="checkbox" />
+              <span onClick="toggle_animated();" id="img-animated-check" class="theme-accent-text">Animated</span>
+            </label></p>
+            <p><label>
+              <input id="static-check" type="checkbox" />
+              <span onClick="toggle_static();" id="img-static-check" class="theme-accent-text">Static</span>
+            </label></p>
+
+            <br/>
+            <div class="divider"></div>
+            <br/>
+
+            <p><label>
+              <input onClick="toggle_nsfw();" id="nsfw-check" type="checkbox" />
+              <span class="theme-accent-text">Enable NSFW Content</span>
+            </label></p>
+
+            <br/>
+            <div class="divider"></div>
+            <br/>
+
+            <p><label>
+              <input type="checkbox" checked disabled />
+              <span class="theme-accent-text">Prioritize Custom Grid Icons</span>
+            </label></p>
+
+
+          </div>
+
+          <!-- <div class="col s6">
+            <h4 class="center theme-accent-text">Other</h4>
+          </div> -->
+        </div>
+
+      </div>
+      <div id="settings-manifests" class="settings manifests">
+
+        <div class="row">
+          <div class="col s6">
+            <h4 class="center theme-accent-text"><i>Edit Manifest Directories</i></h4>
+            <br/>
+
+            <p style="padding-bottom: 0;" class="theme-accent-text">
+              Manifests are currently only able to be added or removed by editing the config file directly. <a onClick="open_config();" href="#!">&lt;Open Config&gt;</a>
+            </p>
+
+            <br/>
+            <div class="divider"></div>
+            <br/>
+            <br/>
+
+            <div class="center">
+              <a onClick="full_scan();" class="btn theme-primary theme-accent-text">Scan Manifests</a>
+              <p class="theme-accent-text" id="found-field"></p>
+            </div>
+          </div>
+        </div>
+
+        <!-- <div class="row">
+          <div class="col s6">
+
+            <h4 class="center theme-accent-text"><i>Steam Manifest Directories</i></h4>
+            <br/>
+            
+
+          </div>
+          <div class="col s6">
+
+            <h4 class="center theme-accent-text"><i>Epic Manifest Directories</i></h4>
+            <br/>
+
+          </div>
+        </div> -->
+
+      </div>
     </div>
   </body>
   
+  <!-- Setting the theme here makes it load faster than settings it in $(() => {}) -->
+  <script>
+    set_theme();
+  </script>
 </html>
 
 
 <script>
+  // set_theme();
   // // Code for dropdown in navbar
   // var elem = document.querySelectorAll('.dropdown-trigger');
   // for(i = 0; i < elem.length; i++) {
@@ -138,8 +231,8 @@
   for(i = 0; i < elem.length; i++) {
     let _ = new M.Collapsible(elem[i], {
       accordion: true,
-      inDuration: 250,
-      outDuration: 250,
+      inDuration: 350,
+      outDuration: 350,
       onOpenEnd: (function () { $('li.active').attr('id', 'drop-li'); }),
       open: false
     });
